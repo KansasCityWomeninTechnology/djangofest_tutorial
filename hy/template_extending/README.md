@@ -26,7 +26,7 @@ Django- ի մեկ այլ օգտակար բան **template extending/ձևանմո
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Django Girls blog</title>
+        <title>DjangoFest blog</title>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
         <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="{% static 'css/blog.css' %}">
@@ -34,7 +34,7 @@ Django- ի մեկ այլ օգտակար բան **template extending/ձևանմո
     <body>
         <header class="page-header">
           <div class="container">
-              <h1><a href="/">Django Girls Blog</a></h1>
+              <h1><a href="/">DjangoFest Blog</a></h1>
           </div>
         </header>
 
@@ -65,7 +65,7 @@ Django- ի մեկ այլ օգտակար բան **template extending/ձևանմո
 <body>
     <header class="page-header">
       <div class="container">
-          <h1><a href="/">Django Girls Blog</a></h1>
+          <h1><a href="/">DjangoFest Blog</a></h1>
       </div>
     </header>
     <main class="container">

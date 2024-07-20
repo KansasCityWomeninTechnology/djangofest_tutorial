@@ -28,7 +28,7 @@ Vyzerá to takto:
 
 ![Obrázok 1.3](images/internet_2.png)
 
-Predstav si, že keď napíšeš https://djangogirls.org, pošleš list, v ktorom stojí: "Drahé Django Girls, chcem vidieť stránku djangogirls.org. Prosím, pošlite mi ju!"
+Predstav si, že keď napíšeš https://djangogirls.org, pošleš list, v ktorom stojí: "Drahé DjangoFest, chcem vidieť stránku djangogirls.org. Prosím, pošlite mi ju!"
 
 Tvoj list ide na najbližšiu poštu. Potom ide na ďalšiu, ktorá je o čosi bližšie adresátovi či adresátke, potom na ďalšiu a ďalšiu, až kým nedorazí do svojej destinácie. Jediná unikátna vec je, že keď pošleš mnoho listov (*dátových paketov*) na rovnaké miesto, môžu ísť cez úplne odlišné pošty (*routery*). Záleží to od toho, ako sú rozdistribuované na každej pošte.
 

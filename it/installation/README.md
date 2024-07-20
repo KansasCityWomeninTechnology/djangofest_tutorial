@@ -1,6 +1,6 @@
 # Se stai seguendo il tutorial a casa
 
-Se stai seguendo il tutorial a casa, e non durante uno degli [eventi Django Girls](https://djangogirls.org/events/), puoi saltare completamente questo capitolo e andare direttamente al capitolo [Come funziona Internet](../how_the_internet_works/README.md).
+Se stai seguendo il tutorial a casa, e non durante uno degli [eventi DjangoFest](https://djangogirls.org/events/), puoi saltare completamente questo capitolo e andare direttamente al capitolo [Come funziona Internet](../how_the_internet_works/README.md).
 
 Questo perché nel tutorial spieghiamo come installare i programmi passo passo -- questa è una pagina aggiuntiva che raccoglie tutte le istruzioni di installazione (e che può tornare utile in alcuni workshop). Se vuoi puoi decidere di installare subito il materiale che trovi in questa pagina. Ma se vuoi imparare alcune nozioni prima di installare queste cose sul tuo computer, salta questo capitolo e ti spiegheremo come fare le installazioni più tardi, quando sarà necessario.
 
@@ -8,7 +8,7 @@ Buona fortuna!
 
 # Se stai partecipando a un workshop
 
-Se stai partecipando a uno degli [eventi Django Girls](https://djangogirls.org/events/):
+Se stai partecipando a uno degli [eventi DjangoFest](https://djangogirls.org/events/):
 
 * Il tuo workshop potrebbe avere un "party di installazione" prima del workshop principale. Se sei in un party di installazione, questa pagina è per te! Segui le istruzioni qui per ottenere tutto quello che serve per il workshop installato, con l'aiuto degli autobus se necessario. Poi al workshop principale, sarai in grado di saltare le istruzioni di installazione che incontrerai nel tutorial principale quando li avrai ricevuti.
 * Gli organizzatori del tuo workshop potrebbero aver chiesto di provare a casa per installare tutto sul tuo computer prima dell'inizio del workshop. Se ti è stato chiesto di farlo, questa pagina è per te! Segui le istruzioni qui, il meglio possibile. Poi al workshop principale, quando si arriva a un passo di installazione nel tutorial principale, se non si è riusciti a installare quel pezzo, si può ottenere aiuto dal tuo coach.

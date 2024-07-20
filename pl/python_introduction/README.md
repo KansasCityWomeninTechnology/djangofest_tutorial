@@ -615,7 +615,7 @@ Wcześniej wybrałyśmy Edytor kodu z sekcji [Edytor kodu](../code_editor/README
 {% filename %}editor{% endfilename %}
 
 ```python
-print('Hello, Django girls!')
+print('Hello, DjangoFest!')
 ```
 
 Oczywiście jesteś już całkiem kompetentną programistką Pythona, więc śmiało - dodaj tam więcej kodu, który poznałaś wcześniej.
@@ -681,7 +681,7 @@ Teraz użyj Pythona do uruchomienia kodu z pliku w następujący sposób:
 {% filename %}command-line{% endfilename %}
 
     $ python3 python_intro.py
-    Hello, Django girls!
+    Hello, DjangoFest!
 
 
 Uwaga: w Windowsie 'python3' nie będzie rozpoznawany jako polecenie. W takim wypadku użyj 'python' by wykonać ten plik:

@@ -73,7 +73,7 @@ Codeամանակն է ծածկագրի խմբագրում բացել `blog/templ
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Django Girls blog</title>
+        <title>DjangoFest blog</title>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
         <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="{% static 'css/blog.css' %}">
@@ -84,7 +84,7 @@ Codeամանակն է ծածկագրի խմբագրում բացել `blog/templ
                 <a href="{% url 'post_new' %}" class="top-menu">
                     {% include './icons/file-earmark-plus.svg' %}
                 </a>
-                <h1><a href="/">Django Girls Blog</a></h1>
+                <h1><a href="/">DjangoFest Blog</a></h1>
             </div>
         </header>
         <main class="content container">
@@ -275,7 +275,7 @@ def post_new(request):
 
 Տեսնենք ՝ կաշխատի՞: Անցեք http://127.0.0.1:8000/post/new/ էջին, ավելացրեք `վերնագիր` և `տեքստ`, պահեք այն… և voilà: Ավելացվեց բլոգի նոր գրառումը, և մենք վերահասցեագրվում ենք ` հաղորդագրության_մանրամասնություն ` էջ:
 
-Գուցե նկատած լինեիք, որ մենք տեղադրում ենք հրապարակման ամսաթիվը նախքան հաղորդագրությունը պահելը: Ավելի ուշ, մենք կներկայացնենք * հրապարակման կոճակ * ** Django Girls Tutorial- ում ՝ Extensions **:
+Գուցե նկատած լինեիք, որ մենք տեղադրում ենք հրապարակման ամսաթիվը նախքան հաղորդագրությունը պահելը: Ավելի ուշ, մենք կներկայացնենք * հրապարակման կոճակ * ** DjangoFest Tutorial- ում ՝ Extensions **:
 
 Դա հիանալի է!
 

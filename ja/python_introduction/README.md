@@ -615,7 +615,7 @@ $
 {% filename %}editor{% endfilename %}
 
 ```python
-print('Hello, Django girls!')
+print('Hello, DjangoFest!')
 ```
 
 あなたは、すでにベテランのPython開発者です。今日学んだコードを自由に書いてみてください。
@@ -681,7 +681,7 @@ WindowsのPowerShellでは、次のようになります。
 {% filename %}command-line{% endfilename %}
 
     $ python3 python_intro.py
-    Hello, Django girls!
+    Hello, DjangoFest!
     
 
 注：Windowsでは「python3」はコマンドとして認識されません。代わりに「python」を使ってファイルを実行します。

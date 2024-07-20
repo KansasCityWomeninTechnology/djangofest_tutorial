@@ -52,7 +52,7 @@ __Теги шаблонов Django__ позволяют нам вставлят�
 {% filename %}blog/templates/blog/post_list.html{% endfilename %}
 ```html
 <div>
-    <h1><a href="/">Django Girls Blog</a></h1>
+    <h1><a href="/">DjangoFest Blog</a></h1>
 </div>
 
 {% for post in posts %}

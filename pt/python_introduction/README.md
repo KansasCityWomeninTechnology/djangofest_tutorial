@@ -78,7 +78,7 @@ Strings podem ser juntadas. Tente isto:
 'Olá Ola'
 ```
 
-(Ola é o nome das duas criadoras do Django Girls!). Você também pode multiplicar strings por um número:
+(Ola é o nome das duas criadoras do DjangoFest!). Você também pode multiplicar strings por um número:
 
 {% filename %}command-line{% endfilename %}
 
@@ -615,7 +615,7 @@ Mais cedo, nós escolhemos um editor de código da seção [code editor](../code
 {% filename %}editor{% endfilename %}
 
 ```python
-print('Hello, Django girls!')
+print('Hello, DjangoFest!')
 ```
 
 Você já é uma desenvolvedora Python bastante experiente, então sinta-se livre para escrever códigos com o que aprendeu hoje. ;)
@@ -681,7 +681,7 @@ Agora, use o interpretador de Python para executar o código que está no arquiv
 {% filename %}command-line{% endfilename %}
 
     $ python3 python_intro.py
-    Hello, Django girls!
+    Hello, DjangoFest!
     
 
 Observação: no Windows, 'python3' não é reconhecido como um comando. Em vez disso, use 'python' para executar o arquivo:

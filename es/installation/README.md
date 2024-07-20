@@ -1,6 +1,6 @@
 # Si estás haciendo el tutorial en casa
 
-Si estás haciendo el tutorial en casa, y no en uno de los [eventos de Django Girls](https://djangogirls.org/events/), puedes saltar este capítulo por completo e ir directamente al capítulo [¿cómo funciona Internet?](../how_the_internet_works/README.md).
+Si estás haciendo el tutorial en casa, y no en uno de los [eventos de DjangoFest](https://djangogirls.org/events/), puedes saltar este capítulo por completo e ir directamente al capítulo [¿cómo funciona Internet?](../how_the_internet_works/README.md).
 
 Esto es porque cubrimos las instalaciones de cosas a medida que se requieran en el tutorial -- esta es solamente una página adicional que reúne toda la información de instalación en un solo lugar (lo que es útil para algunos formatos de taller). Puedes escoger instalar todo lo que está en esta página ya mismo si lo deseas. Pero si quieres empezar a aprender cosas antes de instalar un grupo de materiales en tu computadora, salta este capítulo y te explicaremos las partes de la instalación luego, cuando sean necesarias.
 
@@ -8,7 +8,7 @@ Esto es porque cubrimos las instalaciones de cosas a medida que se requieran en 
 
 # Si estás asistiendo a un workshop
 
-Si estás asistiendo a uno de los [Django Girls events](https://djangogirls.org/events/):
+Si estás asistiendo a uno de los [DjangoFest events](https://djangogirls.org/events/):
 
 * Tu workshop puede tener una "fiesta de instalación" antes del workshop principal. Si estás en un equipo de instalación, ¡ésta página es para ti! Sigue las instrucciones aquí para obtener todo lo que tu necesitas para el workshop de instalación, con la ayuda de los entrenadores si lo necesitas. Entonces en el workshop principal, tu estarás preparado para saltar las instrucciones de instalación que encontrarás en el tutorial principal cuando llegues a ellos.
 * Los organizadores del taller pueden pedirte que en casa intentes instalar todo en tu computadora antes de iniciar el taller. Si has estado preguntando cómo hacer esto, ¡esta página es para ti! Sigue las instrucciones aquí, lo mejor puedas. Así, en el taller principal, cuando estés en uno de los pasos de la instalación del tutorial, y si no tenías esa pieza instalada, puedes pedir ayuda a una de tus entrenadoras.

@@ -28,7 +28,7 @@ Assomiglia a questo:
 
 ![Figura 1.3](images/internet_2.png)
 
-Immagina che quando digiti https://djangogirls.org invii una lettera che dice: "Caro Django Girls, voglio vedere il sito djangogirls.org. inviamelo, per favore!"
+Immagina che quando digiti https://djangogirls.org invii una lettera che dice: "Caro DjangoFest, voglio vedere il sito djangogirls.org. inviamelo, per favore!"
 
 La tua lettera arriva nell'ufficio postale più vicino a te. Dopo di che va in un altro ufficio postale, che è un po' più vicino al tuo destinatario, poi in un altro ed in un altro ancora finché viene consegnato a destinazione. L'unica cosa è che se invii molte lettere (*pacchi di dati*) allo stesso posto, potrebbero attraversare uffici postali totalmente diversi (*routers*). Questo dipende da come vengono distribuiti presso ogni ufficio.
 

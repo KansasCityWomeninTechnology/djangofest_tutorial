@@ -25,7 +25,7 @@ blog
 {% load static %}
 <html>
     <head>
-        <title>Django Girls blog</title>
+        <title>DjangoFest blog</title>
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
         <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -33,7 +33,7 @@ blog
     </head>
     <body>
         <div class="page-header">
-            <h1><a href="/">Django Girls Blog</a></h1>
+            <h1><a href="/">DjangoFest Blog</a></h1>
         </div>
 
         <div class="content container">
@@ -61,7 +61,7 @@ blog
 ```html
 <body>
     <div class="page-header">
-        <h1><a href="/">Django Girls Blog</a></h1>
+        <h1><a href="/">DjangoFest Blog</a></h1>
     </div>
     <div class="content container">
         <div class="row">

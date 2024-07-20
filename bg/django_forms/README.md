@@ -62,7 +62,7 @@ class PostForm(forms.ModelForm):
 {% load static %}
 <html>
     <head>
-        <title>Django Girls blog</title>
+        <title>DjangoFest blog</title>
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
         <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -71,7 +71,7 @@ class PostForm(forms.ModelForm):
     <body>
         <div class="page-header">
             <a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
-            <h1><a href="/">Django Girls Blog</a></h1>
+            <h1><a href="/">DjangoFest Blog</a></h1>
         </div>
         <div class="content container">
             <div class="row">
@@ -264,7 +264,7 @@ def post_new(request):
 
 Нека видим дали работи. Отидете на страница http://127.0.0.1:8000/post/new, добвавете `title` и `text`, запазете..и voilà! Новата публикация е добавена и сме пренасочени към страница `post_detail`!
 
-Може би забелязахте, че избираме датата на публикуване преди да запазим публикацията. По-късно ще се запознаем с *publish button* in **Django Girls Tutorial: Extensions**.
+Може би забелязахте, че избираме датата на публикуване преди да запазим публикацията. По-късно ще се запознаем с *publish button* in **DjangoFest Tutorial: Extensions**.
 
 Това е страхотно!
 

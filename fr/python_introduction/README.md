@@ -617,7 +617,7 @@ Tout à l'heure, nous avions choisi un éditeur de code de la section [code edit
 {% filename %}editor{% endfilename %}
 
 ```python
-print('Hello, Django girls!')
+print('Hello, DjangoFest!')
 ```
 
 Vous avez maintenant pas mal de connaissances en Python : n'hésitez pas à écrire du code avec ce que vous avez appris aujourd'hui !
@@ -683,7 +683,7 @@ Maintenant, utilisez Python pour exécuter le code contenu dans votre fichier :
 {% filename %}command-line{% endfilename %}
 
     $ python3 python_intro.py
-    Hello, Django girls!
+    Hello, DjangoFest!
     
 
 Note: sur Windows 'python3' n'est pas reconnu comme une commande. Au lieu de cela, utilisez 'python' pour exécuter le fichier :

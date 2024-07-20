@@ -62,7 +62,7 @@ Po dodaniu powyższej linii Twój plik HTML powinien wyglądać następująco:
 {% load static %}
 <html>
     <head>
-        <title>Django Girls blog</title>
+        <title>DjangoFest blog</title>
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
         <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -71,7 +71,7 @@ Po dodaniu powyższej linii Twój plik HTML powinien wyglądać następująco:
     <body>
         <div class="page-header">
             <a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
-            <h1><a href="/">Django Girls Blog</a></h1>
+            <h1><a href="/">DjangoFest Blog</a></h1>
         </div>
         <div class="content container">
             <div class="row">
@@ -261,7 +261,7 @@ def post_new(request):
 
 Zobaczmy, czy zadziała. Przejdź na stronę http://127.0.0.1:8000/post/new/, dodaj `tytuł` i `tekst`, zapisz... i voilà! Nowy wpis został dodany, a my zostałyśmy przekierowane na stronę `post_detail`!
 
-Zapewne dostrzegłaś, że ustalamy datę publikacji przed zapisaniem postu. Później wprowadzimy przycisk publikacji *publish* w kursie **Django Girls: Rozszerzenia**.
+Zapewne dostrzegłaś, że ustalamy datę publikacji przed zapisaniem postu. Później wprowadzimy przycisk publikacji *publish* w kursie **DjangoFest: Rozszerzenia**.
 
 Wspaniale!
 

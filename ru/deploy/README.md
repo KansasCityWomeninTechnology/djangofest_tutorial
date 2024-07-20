@@ -80,7 +80,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 {% filename %}command-line{% endfilename %}
 ```
 $ git add --all .
-$ git commit -m "My Django Girls app, first commit"
+$ git commit -m "My DjangoFest app, first commit"
  [...]
  13 files changed, 200 insertions(+)
  create mode 100644 .gitignore

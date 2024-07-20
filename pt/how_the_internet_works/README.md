@@ -28,7 +28,7 @@ Fascinante, né? Mas não é possível ter um fio ligando todas as máquinas que
 
 ![Figura 1.3](images/internet_2.png)
 
-Imagine que quando digita http://djangogirls.org, você envia uma carta que diz: "Queridas Django Girls, eu desejo ver o site djangogirls.org. Enviem-no para mim, por favor!"
+Imagine que quando digita http://djangogirls.org, você envia uma carta que diz: "Queridas DjangoFest, eu desejo ver o site djangogirls.org. Enviem-no para mim, por favor!"
 
 Sua carta vai para a agência dos correios mais próxima de você. Então, ela vai para outra agência um pouco mais perto do destinatário e, em seguida, para outra e outra até ser entregue. A única coisa diferente é que se você enviar muitas cartas (*pacotes de dados*) para o mesmo lugar, elas podem passar por agências totalmente diferentes (*roteadores*). Isso depende de como elas são distribuídas em cada agência.
 

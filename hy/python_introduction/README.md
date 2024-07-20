@@ -617,7 +617,7 @@ $
 {% filename %}editor{% endfilename %}
 
 ```python
-print('Hello, Django girls!')
+print('Hello, DjangoFest!')
 ```
 
 Ակնհայտ է, որ դուք այժմ Python- ի բավականին փորձառու մշակող եք, այնպես որ ազատորեն գրեք մի քանի կոդ, որոնք սովորել եք այսօր:
@@ -683,7 +683,7 @@ Windows- ի հրամանի տողում սա կլինի այսպես.
 {% filename %}command-line{% endfilename %}
 
     $ python3 python_intro.py
-    Hello, Django girls!
+    Hello, DjangoFest!
     
 
 Նշում. Windows- ում 'python3' («python3») - ը չի ճանաչվում որպես հրաման: Փոխարենը, ֆայլը կատարելու համար օգտագործեք 'python' («python»).

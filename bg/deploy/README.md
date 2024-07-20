@@ -78,7 +78,7 @@ Git ще проследи промените във всички файлове 
 {% filename %}command-line{% endfilename %}
 
     $ git add --all .
-    $ git commit -m "My Django Girls app, first commit"
+    $ git commit -m "My DjangoFest app, first commit"
      [...]
      13 files changed, 200 insertions(+)
      create mode 100644 .gitignore
@@ -125,7 +125,7 @@ Git ще проследи промените във всички файлове 
 
 <!--TODO: maybe do ssh keys installs in install party, and point ppl who dont have it to an extension -->
 
-Кодът ви вече е на GitHub. Отидете и го вижте! Ще откриете, че е в добра компания - [Django](https://github.com/django/django), [Django Girls Tutorial](https://github.com/DjangoGirls/tutorial) и много други страхотни софтуерни проекти с отворен код също са домакини на кода си в GitHub. :)
+Кодът ви вече е на GitHub. Отидете и го вижте! Ще откриете, че е в добра компания - [Django](https://github.com/django/django), [DjangoFest Tutorial](https://github.com/DjangoGirls/tutorial) и много други страхотни софтуерни проекти с отворен код също са домакини на кода си в GitHub. :)
 
 # Настройване на нашия блог на PythonAnywhere
 

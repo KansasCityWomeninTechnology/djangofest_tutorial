@@ -576,7 +576,7 @@ $
 
 {% filename %}editor{% endfilename %}
 ```python
-print('Hello, Django girls!')
+print('Hello, DjangoFest!')
 ```
 
 Очевидно, ты уже искушенный Python разработчик, так что не стесняйся добавить что-нибудь по своему вкусу из ранее изученного.
@@ -640,7 +640,7 @@ $ cd ~/Desktop
 {% filename %}command-line{% endfilename %}
 ```
 $ python3 python_intro.py
-Hello, Django girls!
+Hello, DjangoFest!
 ```
 
 Примечание: Windows не распознаёт команду 'python3'. Вместо этого для запуска файла используй команду 'python':

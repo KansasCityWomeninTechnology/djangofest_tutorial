@@ -616,7 +616,7 @@ Im Kapitel [Code-Editor](../code_editor/README.md) haben wir uns bereits einen C
 {% filename %}editor{% endfilename %}
 
 ```python
-print('Hello, Django girls!')
+print('Hello, DjangoFest!')
 ```
 
 Da du nun schon einige Python-Erfahrung hast, schreibe ein wenig Code mit dem, was du bislang gelernt hast.
@@ -682,7 +682,7 @@ Benutze jetzt Python, um den Code in der Datei auszuführen:
 {% filename %}command-line{% endfilename %}
 
     $ python3 python_intro.py 
-    Hello, Django girls!
+    Hello, DjangoFest!
     
 
 Hinweis: Unter Windows gibt es den 'python3'-Befehl nicht. Verwende stattdessen 'python', um die Datei auszuführen:

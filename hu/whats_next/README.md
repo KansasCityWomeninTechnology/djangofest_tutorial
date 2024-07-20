@@ -8,14 +8,14 @@ Tarts egy kis szünetet, és pihenj. Valami egészen hatalmas dolgot csináltál
 
 Aztán majd ne felejtsd el:
 
-*   Követni a Django Girlst [Facebook][1]on vagy [Twitter][2]en, hogy mindenről értesülj
+*   Követni a DjangoFestt [Facebook][1]on vagy [Twitter][2]en, hogy mindenről értesülj
 
  [1]: http://facebook.com/djangogirls
  [2]: https://twitter.com/djangogirls
 
 ### Tudunk-e ajánlani bármilyen tananyagot?
 
-Igen! Először is nézd meg a másik könyvünket, a [Django Girls Tutorial: Extensions][3]-t.
+Igen! Először is nézd meg a másik könyvünket, a [DjangoFest Tutorial: Extensions][3]-t.
 
  [3]: https://tutorial-extensions.djangogirls.org
 

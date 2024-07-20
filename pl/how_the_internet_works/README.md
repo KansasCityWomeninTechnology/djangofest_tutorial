@@ -28,7 +28,7 @@ Wygląda to tak:
 
 ![Rysunek 1.3](images/internet_2.png)
 
-Wyobraź sobie, że po wpisaniu https://djangogirls.org, wysyłasz list o treści: "Drogie Django Girls, chcę zobaczyć stronę djangogirls.org. Wyślijcie ją do mnie, proszę! "
+Wyobraź sobie, że po wpisaniu https://djangogirls.org, wysyłasz list o treści: "Drogie DjangoFest, chcę zobaczyć stronę djangogirls.org. Wyślijcie ją do mnie, proszę! "
 
 List trafia do urzędu pocztowego najbliżej Ciebie. Potem idzie do drugiego urzędu, który znajduje się trochę bliżej Twojego adresata. Potem do kolejnego, kolejnego, kolejnego, aż w końcu zostanie doręczony do miejsca przeznaczenia. Ciekawa rzecz - jeśli wyślesz wiele listów (*pakietów danych*) do tego samego adresata, mogą przejść przez zupełnie inne urzędy pocztowe (*routery*). To zależy od tego w jaki sposób zostaną rozdzielone w każdym urzędzie.
 

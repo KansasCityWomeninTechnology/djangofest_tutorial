@@ -130,11 +130,11 @@ HTML- ը նշանակում է «HyperText Markup Language»: ** HyperText ** ն
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Django Girls blog</title>
+        <title>DjangoFest blog</title>
     </head>
     <body>
         <header>
-            <h1><a href="/">Django Girls Blog</a></h1>
+            <h1><a href="/">DjangoFest Blog</a></h1>
         </header>
 
         <article>

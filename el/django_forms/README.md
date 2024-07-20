@@ -62,7 +62,7 @@ class PostForm(forms.ModelForm):
 {% load static %}
 <html>
     <head>
-        <title>Django Girls blog</title>
+        <title>DjangoFest blog</title>
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
         <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -71,7 +71,7 @@ class PostForm(forms.ModelForm):
     <body>
         <div class="page-header">
             <a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
-            <h1><a href="/">Django Girls Blog</a></h1>
+            <h1><a href="/">DjangoFest Blog</a></h1>
         </div>
         <div class="content container">
             <div class="row">
@@ -261,7 +261,7 @@ def post_new(request):
 
 Ας δούμε αν λειτουργεί. Πηγαίνετε στην σελίδα http://127.0.0.1:8000/post/new/ και προσθέστε ένα `title` και ένα `text`, αποθηκεύστε το… και voilà! Το νέο σας post προστέθηκε και αυτόματως ανακατευθυνόμαστε στη σελίδα του `post_detail`!
 
-Ίσως να προσέξατε ότι ορίζουμε την ημ/νια έκδοσης (publish date) πριν την αποθήκευση του post. Αργότερα θα παρουσιάσουμε ένα *publish button* στην ενότητα **Οδηγός Django Girls: Επεκτάσεις**.
+Ίσως να προσέξατε ότι ορίζουμε την ημ/νια έκδοσης (publish date) πριν την αποθήκευση του post. Αργότερα θα παρουσιάσουμε ένα *publish button* στην ενότητα **Οδηγός DjangoFest: Επεκτάσεις**.
 
 Αυτό είναι απίθανο!
 

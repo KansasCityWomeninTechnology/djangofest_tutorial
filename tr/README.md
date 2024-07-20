@@ -1,4 +1,4 @@
-# Django Girls Eğitimi
+# DjangoFest Eğitimi
 
 [![Gitter](https://badges.gitter.im/DjangoGirls/tutorial.svg)](https://gitter.im/DjangoGirls/tutorial)
 
@@ -6,7 +6,7 @@
 
 ## Hoşgeldiniz
 
-Django Girls Eğitimi'ne hoşgeldin! Seni burada görmekten mutluyuz :) Bu eğitimde, seni web teknolojileri dünyasında bir yolculuğa çıkaracak, internetin bildiğimiz haliyle çalışması için bir araya gelmesi gereken tüm parçalara bir göz atacağız.
+DjangoFest Eğitimi'ne hoşgeldin! Seni burada görmekten mutluyuz :) Bu eğitimde, seni web teknolojileri dünyasında bir yolculuğa çıkaracak, internetin bildiğimiz haliyle çalışması için bir araya gelmesi gereken tüm parçalara bir göz atacağız.
 
 Bilinmeyen şeylerde hep olduğu gibi, bu bir macera olacak. Ama hiç endişelenme, buraya gelme azmini gösterdiğine göre devamı da iyi gidecek :)
 
@@ -34,7 +34,7 @@ Tamam, [hadi en baştan başlayalım...](./how_the_internet_works/README.md)
 
 ## Eğitimi evden takip etmek
 
-Bir Django Girls atölyesine katılmak harika, ama katılmanın her zaman mümkün olmayabileceğinin farkındayız. Bu nedenle, bu eğitimi evde takip etmeyi denemenizi tavsiye ediyoruz. Evde okuyanlar için, şu anda eğitimi kendi başına izlemeyi kolaylaştıracak videolar hazırlıyoruz. Bu hala devam eden bir çalışma, ancak yakında [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A/feed) Youtube kanalında (İngilizce) giderek daha da fazla konu ele alınacak.
+Bir DjangoFest atölyesine katılmak harika, ama katılmanın her zaman mümkün olmayabileceğinin farkındayız. Bu nedenle, bu eğitimi evde takip etmeyi denemenizi tavsiye ediyoruz. Evde okuyanlar için, şu anda eğitimi kendi başına izlemeyi kolaylaştıracak videolar hazırlıyoruz. Bu hala devam eden bir çalışma, ancak yakında [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A/feed) Youtube kanalında (İngilizce) giderek daha da fazla konu ele alınacak.
 
 Ele alınmış olan her bölümde, ilgili videoya ait bir bağlantı var.
 

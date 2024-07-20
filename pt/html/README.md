@@ -117,11 +117,11 @@ Aqui vai um exemplo de um template completo; copie e cole dentro de `blog/templa
 ```html
 <html>
     <head>
-        <title>Blog Django Girls</title>
+        <title>Blog DjangoFest</title>
     </head>
     <body>
         <div>
-            <h1><a href="/">Blog Django Girls</a></h1>
+            <h1><a href="/">Blog DjangoFest</a></h1>
         </div>
 
         <div>

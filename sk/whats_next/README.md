@@ -6,15 +6,15 @@ Môžeš si zablahoželať! **Si úplne úžasná**. Sme na teba hrdí! <3
 
 Daj si pauzu a oddýchni si. Práve si urobila niečo ohromné.
 
-Potom určite začni sledovať Django Girls na [Facebooku](http://facebook.com/djangogirls) alebo [Twitteri](https://twitter.com/djangogirls) pre najnovšie informácie.
+Potom určite začni sledovať DjangoFest na [Facebooku](http://facebook.com/djangogirls) alebo [Twitteri](https://twitter.com/djangogirls) pre najnovšie informácie.
 
 ### Viete odporučiť ďalšie zdroje?
 
-Áno! Na webe nájdeš *obrovské množstvo* materiálov na trénovanie všemožných programátorských zručností. V tomto momente môže byť ťažké rozhodnúť sa, ako pokračovať, ale radi ti pomôžeme. Bez ohľadu na to, čo ťa zaujímalo pred Django Girls a čo ťa zaujalo počas tutoriálu, tu je niekoľko materiálov zdarma (alebo s veľkými časťami zadarmo), ktoré ti poslúžia na to, aby ťa dostali tam, kde chceš byť.
+Áno! Na webe nájdeš *obrovské množstvo* materiálov na trénovanie všemožných programátorských zručností. V tomto momente môže byť ťažké rozhodnúť sa, ako pokračovať, ale radi ti pomôžeme. Bez ohľadu na to, čo ťa zaujímalo pred DjangoFest a čo ťa zaujalo počas tutoriálu, tu je niekoľko materiálov zdarma (alebo s veľkými časťami zadarmo), ktoré ti poslúžia na to, aby ťa dostali tam, kde chceš byť.
 
 #### Django
 
-- Naša knižka [Django Girls Tutorial: Extensions](https://tutorial-extensions.djangogirls.org/)
+- Naša knižka [DjangoFest Tutorial: Extensions](https://tutorial-extensions.djangogirls.org/)
 - [Oficiálny Django návod](https://docs.djangoproject.com/en/3.2/intro/tutorial01/)
 - [Video návod Getting Started With Django](http://www.gettingstartedwithdjango.com/)
 - [Django for Everybody Specialization](https://www.coursera.org/specializations/django) – niektoré z prednášok možno sledovať zdarma a môžeš za ne dostať Coursera certifikát

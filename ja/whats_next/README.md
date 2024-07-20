@@ -6,15 +6,15 @@
 
 休憩してリラックスしてください！本当に大きなことを成し遂げました。
 
-休んだ後は、[Facebook](http://facebook.com/djangogirls)や[Twitter](https://twitter.com/djangogirls)でDjango Girlsをぜひフォローしてくださいね。最新の情報を入手できます。
+休んだ後は、[Facebook](http://facebook.com/djangogirls)や[Twitter](https://twitter.com/djangogirls)でDjangoFestをぜひフォローしてくださいね。最新の情報を入手できます。
 
 ### さらにオススメの資料はありますか？
 
-あります！ 様々なプログラミングスキルを学ぶためのオンラインリソースが、*たくさん*あります。沢山ありすぎて何を次にやろうか迷うかもしれませんので、お勧めを示しておきます。 Django Girlsのチュートリアルを始める時にどんな興味を持っていたとしても、あるいは、チュートリアルを終えた今どんな興味があるとしても、あなたが行きたいところへ行くために使える無料の（あるいは、無料で多くのことを学べる）リソースを示します。
+あります！ 様々なプログラミングスキルを学ぶためのオンラインリソースが、*たくさん*あります。沢山ありすぎて何を次にやろうか迷うかもしれませんので、お勧めを示しておきます。 DjangoFestのチュートリアルを始める時にどんな興味を持っていたとしても、あるいは、チュートリアルを終えた今どんな興味があるとしても、あなたが行きたいところへ行くために使える無料の（あるいは、無料で多くのことを学べる）リソースを示します。
 
 #### Django
 
-- このチュートリアルの続きである[Django Girls Tutorial: Extensions](https://tutorial-extensions.djangogirls.org/)
+- このチュートリアルの続きである[DjangoFest Tutorial: Extensions](https://tutorial-extensions.djangogirls.org/)
 - [Django 公式チュートリアル](https://docs.djangoproject.com/ja/3.2/intro/tutorial01/)
 - [Getting Started With Django 動画レッスン](http://www.gettingstartedwithdjango.com/)
 

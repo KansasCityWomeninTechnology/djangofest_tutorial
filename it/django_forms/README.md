@@ -71,7 +71,7 @@ Dopo aver modificato la riga, il file HTML dovrebbe ora assomigliare a questo:
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Django Girls blog</title>
+        <title>DjangoFest blog</title>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
         <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="{% static 'css/blog.css' %}">
@@ -82,7 +82,7 @@ Dopo aver modificato la riga, il file HTML dovrebbe ora assomigliare a questo:
                 <a href="{% url 'post_new' %}" class="top-menu">
                     {% include './icons/file-earmark-plus.svg' %}
                 </a>
-                <h1><a href="/">Django Girls Blog</a></h1>
+                <h1><a href="/">DjangoFest Blog</a></h1>
             </div>
         </header>
         <main class="content container">
@@ -273,7 +273,7 @@ def post_new(request):
 
 Vediamo se funziona. Vai alla pagina http://127.0.0.1:8000/post/new/, aggiungi un `titolo` e `testo`, salvalo… e voilà! Il nuovo post è stato aggiunto e siamo reindirizzati alla pagina `post_detail`!
 
-Potresti aver notato che stiamo impostando la data di pubblicazione prima di salvare il post. Più tardi, introdurremo un *pulsante pubblcia* nel **Django Girls Tutorial: Estensioni**.
+Potresti aver notato che stiamo impostando la data di pubblicazione prima di salvare il post. Più tardi, introdurremo un *pulsante pubblcia* nel **DjangoFest Tutorial: Estensioni**.
 
 Fantastico!
 

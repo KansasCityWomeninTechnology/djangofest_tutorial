@@ -1,8 +1,8 @@
 # Eğer tutorial'ı evde yapıyorsanız
 
-Eğer tutorial'ı [Django Girls etkinliklerinden](https://djangogirls.org/events/) birinde değil de evde yapıyorsanız, bu bölümü şimdi tamamen atlayabilirsiniz ve direkt [İnternet nasıl çalışıyor](../how_the_internet_works/README.md) bölümüne geçebilirsiniz.
+Eğer tutorial'ı [DjangoFest etkinliklerinden](https://djangogirls.org/events/) birinde değil de evde yapıyorsanız, bu bölümü şimdi tamamen atlayabilirsiniz ve direkt [İnternet nasıl çalışıyor](../how_the_internet_works/README.md) bölümüne geçebilirsiniz.
 
-Çünkü burada anlatılanları tutorial boyunca zaten işliyoruz, bu kısım kurulum talimatlarının tek yerde toparlandığı ek bir sayfa sadece. Django Girls etkinliği, çalıştay boyunca tekrar kurulumla uğraşmamak adına her şeyi yüklediğimiz bir "Kurulum akşamı" içeriyor.
+Çünkü burada anlatılanları tutorial boyunca zaten işliyoruz, bu kısım kurulum talimatlarının tek yerde toparlandığı ek bir sayfa sadece. DjangoFest etkinliği, çalıştay boyunca tekrar kurulumla uğraşmamak adına her şeyi yüklediğimiz bir "Kurulum akşamı" içeriyor.
 
 Eğer bunu yararlı bulduysanız, bu bölümü de takip edebilirsiniz. Ama bilgisayarınıza birkaç şey yüklemeden önce bir şeyler öğrenmeye başlamak istiyorsanız, bu bölümü atlayın. Daha sonra kurulum kısmını size açıklayacağız.
 

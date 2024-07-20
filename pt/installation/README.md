@@ -1,6 +1,6 @@
 # Se você estiver fazendo o tutorial em casa
 
-Se você estiver fazendo o tutorial em casa e não em um dos [eventos Django Girls](https://djangogirls.org/events/), pode pular este capítulo e ir direto para o capítulo [Como a internet funciona](../how_the_internet_works/README.md).
+Se você estiver fazendo o tutorial em casa e não em um dos [eventos DjangoFest](https://djangogirls.org/events/), pode pular este capítulo e ir direto para o capítulo [Como a internet funciona](../how_the_internet_works/README.md).
 
 Isso porque nós cobrimos a instalação dos itens a medida que eles são necessários no tutorial -- Essa é apenas uma página adicional que reúne todas as instruções de instalação em um só lugar (que é útil para alguns formatos de oficinas). Você pode escolher instalar tudo que está nessa página nesse momento se você quiser. Mas se você quer começar a aprender coisas antes de instalar um monte de coisas no seu computador, pule este capítulo e nós explicaremos os componentes de instalação para você mais tarde, a medida que são necessários.
 
@@ -8,7 +8,7 @@ Boa sorte!
 
 # Se você está participando de uma oficina
 
-Se você está participando de uma oficina de um [ Evento Django Girls ](https://djangogirls.org/events/):
+Se você está participando de uma oficina de um [ Evento DjangoFest ](https://djangogirls.org/events/):
 
 * Sua oficina pode ter um "grupo de instalação" antes da oficina principal. Se você está com um grupo de instalação, essa página é para você! Siga as instruções aqui contidas para ter tudo que precisa para a oficina instalada, com a ajuda de instrutores, se necessário. Então, no workshop principal, poderás saltar as intruções de instalação que encontrares no tutorial principal, quando aparecerem.
 * A organização do workshop poderá ter-te perguntado se tentaste reslizar a instalação no computador, em casa antes de vires para o workshop. Se te oriposeram a isso, esta página é para ti! Siga as instruções. Então, no workshop principal, quando chegar à etapa de instalação, se você ainda for capaz de prosseguir você poderá pedir ajuda para a sua monitora.

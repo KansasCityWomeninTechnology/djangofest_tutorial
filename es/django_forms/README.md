@@ -62,7 +62,7 @@ Después de agregar la línea, tu archivo html debería lucir de esta forma:
 {% load static %}
 <html>
     <head>
-        <title>Django Girls blog</title>
+        <title>DjangoFest blog</title>
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
         <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -71,7 +71,7 @@ Después de agregar la línea, tu archivo html debería lucir de esta forma:
     <body>
         <div class="page-header">
             <a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
-            <h1><a href="/">Django Girls Blog</a></h1>
+            <h1><a href="/">DjangoFest Blog</a></h1>
         </div>
         <div class="content container">
             <div class="row">
@@ -261,7 +261,7 @@ def post_new(request):
 
 Veamos si funciona. Ve a la página http://127.0.0.1:8000/post/new/, añade un `title` y un `text`, guárdalo... y voilá! Se ha añadido el nuevo post al blog y somos redirigidos a la página de `post_detail`!
 
-Puede que hayas notado que estamos indicando la fecha de publicación antes de guardar el post. Más adelante introduciremos un *botón de publicar* en el libro **Django Girls Tutorial: Extensions**.
+Puede que hayas notado que estamos indicando la fecha de publicación antes de guardar el post. Más adelante introduciremos un *botón de publicar* en el libro **DjangoFest Tutorial: Extensions**.
 
 ¡Eso es genial!
 

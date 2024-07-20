@@ -110,14 +110,14 @@ Most megmondtuk a template-ünknek, hol találja a CSS fájlokat.
 {% load static %}
 <html>
     <head>
-        <title>Django Girls blog</title>
+        <title>DjangoFest blog</title>
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="{% static 'css/blog.css' %}">
     </head>
     <body>
         <div>
-            <h1><a href="/">Django Girls Blog</a></h1>
+            <h1><a href="/">DjangoFest Blog</a></h1>
         </div>
 
         {% for post in posts %}
@@ -181,7 +181,7 @@ Menj végig és nevezd el egy részét a HTML kódodnak. Adj egy `page-header` n
 
 ```html
 <div class="page-header">
-    <h1><a href="/">Django Girls Blog</a></h1>
+    <h1><a href="/">DjangoFest Blog</a></h1>
 </div>
 ``` 
 

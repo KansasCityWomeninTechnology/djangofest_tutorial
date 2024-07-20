@@ -88,7 +88,7 @@ Git- ը հետևելու է տվյալ գրացուցակի բոլոր ֆայլ�
 {% filename %}command-line{% endfilename %}
 
     $ git add .
-    $ git commit -m "My Django Girls app, first commit"
+    $ git commit -m "My DjangoFest app, first commit"
      [...]
      13 files changed, 200 insertions(+)
      create mode 100644 .gitignore
@@ -135,7 +135,7 @@ GitHub մուտք գործելուց հետո ձեզանից կպահանջվի 
 
 <!--TODO: maybe do ssh keys installs in install party, and point ppl who dont have it to an extension -->
 
-Ձեր ծածկագիրն այժմ GitHub- ում է: Գնացեք կայք և ստուգեք այն: Այն կարող եք գտնել հիանալի ընկերություններում ինչպիսիք են՝ [Django](https://github.com/django/django), the [Django Girls Tutorial](https://github.com/DjangoGirls/tutorial), և շատ այլ բաց կոդով ծրագրեր GitHub- ում: :)
+Ձեր ծածկագիրն այժմ GitHub- ում է: Գնացեք կայք և ստուգեք այն: Այն կարող եք գտնել հիանալի ընկերություններում ինչպիսիք են՝ [Django](https://github.com/django/django), the [DjangoFest Tutorial](https://github.com/DjangoGirls/tutorial), և շատ այլ բաց կոդով ծրագրեր GitHub- ում: :)
 
 # PythonAnywhere- ում մեր բլոգի տեղադրումը
 

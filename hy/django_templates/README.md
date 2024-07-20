@@ -52,7 +52,7 @@ Django ձևանմուշի/Django templates մեջ փոփոխական տեղադ�
 
 ```html
 <header>
-    <h1><a href="/">Django Girls Blog</a></h1>
+    <h1><a href="/">DjangoFest Blog</a></h1>
 </header>
 
 {% for post in posts %}

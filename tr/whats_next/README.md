@@ -6,11 +6,11 @@ Kendini tebrik et! **Kesinlikle harikasın**. Seninle gurur duyuyoruz! <3
 
 Bir ara ver ve rahatla. Gerçekten çok büyük bir şey yaptın.
 
-Sonra, güncel kalmak için Django Girls'ü [Facebook](http://facebook.com/djangogirls) ya da [Twitter](https://twitter.com/djangogirls) da takip ettiğinizden emin olun.
+Sonra, güncel kalmak için DjangoFest'ü [Facebook](http://facebook.com/djangogirls) ya da [Twitter](https://twitter.com/djangogirls) da takip ettiğinizden emin olun.
 
 ### Daha geniş kapsamlı kaynaklar önerebilir misiniz?
 
-Evet! Öncelikle [Django Girls Tutorial: Eklentiler](https://tutorial-extensions.djangogirls.org/) isimli diğer kitabımızı dene.
+Evet! Öncelikle [DjangoFest Tutorial: Eklentiler](https://tutorial-extensions.djangogirls.org/) isimli diğer kitabımızı dene.
 
 Daha sonra, aşağıdaki listedeki kaynakları deneyebilirsin. Hepsi birden çok kez önerilir!
 

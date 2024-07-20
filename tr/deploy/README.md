@@ -78,7 +78,7 @@ Ve son olarak değişikliklerimizi kaydediyoruz. Komut satırına gidin ve aşa�
 {% filename %}komut-satırı{% endfilename %}
 
     $ git add --all .
-    $ git commit -m "Django Girls uygulamam, ilk commit"
+    $ git commit -m "DjangoFest uygulamam, ilk commit"
      [...]
      13 files changed, 200 insertions(+)
      create mode 100644 .gitignore
@@ -127,7 +127,7 @@ Github kullanıcı adı ve şifrenizi girin, ardından aşağıdakine benzer bir
 
 <!--TODO: maybe do ssh keys installs in install party, and point ppl who dont have it to an extension -->
 
-Kodunuz artık Github'da. Hemen gidip bak! İyi bir çevrede olduğunu göreceksiniz - [Django](https://github.com/django/django), the [Django Girls Tutorial](https://github.com/DjangoGirls/tutorial), ve daha birçok harika açık kaynak yazılım projesi de kodlarını Github'da tutuyor. :)
+Kodunuz artık Github'da. Hemen gidip bak! İyi bir çevrede olduğunu göreceksiniz - [Django](https://github.com/django/django), the [DjangoFest Tutorial](https://github.com/DjangoGirls/tutorial), ve daha birçok harika açık kaynak yazılım projesi de kodlarını Github'da tutuyor. :)
 
 # Blogumuzun PythonAnywhere üzerinde kurulumu
 

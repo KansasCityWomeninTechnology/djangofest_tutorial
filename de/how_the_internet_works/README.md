@@ -28,7 +28,7 @@ Das sieht ungefähr so aus:
 
 ![Abbildung 1.3](images/internet_2.png)
 
-Stell dir vor, wenn du https://djangogirls.org in den Browser eingibst, würdest du einen Brief versenden, in dem steht; "Hallo Django Girls, ich möchte die djangogirls.org Webseite ansehen. Bitte schickt sie mir!"
+Stell dir vor, wenn du https://djangogirls.org in den Browser eingibst, würdest du einen Brief versenden, in dem steht; "Hallo DjangoFest, ich möchte die djangogirls.org Webseite ansehen. Bitte schickt sie mir!"
 
 Der Brief kommt ins Postamt in deiner Nähe. Von da aus gelangt er zu einem anderen Postamt näher an der Zieladresse und näher und näher, bis der Brief zugestellt werden kann. Die einzigartige Sache ist, dass, wenn du mehrere Briefe (*Datenpakete*) zu der selben Adresse abschickst, jeder einzelne Brief durch komplett unterschiedliche Poststellen (*Router*) laufen könnte. Dies hängt davon ab, wie sie an jedem Standort verteilt werden.
 

@@ -68,7 +68,7 @@ Bir [Github](https://github.com) hesabı açın.
 
 ### PythonAnywhere
 
-Django Girls eğitimi, yeni web uygulamanızı güçlendiren ve onu herkesin görebileceği şekilde herkes tarafından erişilebilen bir bilgisayara (sunucu olarak adlandırılır) taşıyan bir kod olan Deployment (Dağıtım) adlı bir bölümü içerir.
+DjangoFest eğitimi, yeni web uygulamanızı güçlendiren ve onu herkesin görebileceği şekilde herkes tarafından erişilebilen bir bilgisayara (sunucu olarak adlandırılır) taşıyan bir kod olan Deployment (Dağıtım) adlı bir bölümü içerir.
 
 Kılavuzu Chromebook üzerinden kullanırken bu bölüm biraz garip oluyor; zaten internet üzerindeki bir bilgisayar kullanılıyor (laptop dışında). Bununla birlikte, Cloud 9'u çalışma alanımız veya "devam etmekte" olan işlerimizin bulunduğu bir yer olarak, Python Anywhere'i de işlerimizi daha eksiksiz hale getirdiğimizde gösterebileceğimiz bir yer olarak düşündüğümüzde hala kullanışlıdır.
 

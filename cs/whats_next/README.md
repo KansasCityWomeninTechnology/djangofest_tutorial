@@ -8,14 +8,14 @@ Odpočiň si a relaxuj. Právě jsi udělala něco opravdu obrovského.
 
 Poté nezapomeň:
 
-*   Sleduj Django Girls na [Facebooku][1] nebo [Twitteru][2] a zůstaň v obraze
+*   Sleduj DjangoFest na [Facebooku][1] nebo [Twitteru][2] a zůstaň v obraze
 
  [1]: http://facebook.com/djangogirls
  [2]: https://twitter.com/djangogirls
 
 ### Můžete mi doporučit nějaké další zdroje?
 
-Ano! Zaprvé, jdi a zkus naši další knihu, jmenuje se [Django Girls Tutorial: Extensions][3].
+Ano! Zaprvé, jdi a zkus naši další knihu, jmenuje se [DjangoFest Tutorial: Extensions][3].
 
  [3]: https://tutorial-extensions.djangogirls.org
 

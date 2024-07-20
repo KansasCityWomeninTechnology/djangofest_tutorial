@@ -77,7 +77,7 @@ E finalmente salvamos nossas alterações. Vá para o seu console e execute este
 {% filename %}linha de comando{% endfilename %}
 
     $ git add --all .
-    $ git commit -m "My Django Girls app, first commit"
+    $ git commit -m "My DjangoFest app, first commit"
      [...]
      13 files changed, 200 insertions(+)
      create mode 100644 .gitignore
@@ -124,7 +124,7 @@ Quando você enviar para o GitHub, seu nome de usuário e senha do GitHub serão
 
 <!--TODO: maybe do ssh keys installs in install party, and point ppl who dont have it to an extension -->
 
-O seu código agora está no GitHub. Vai lá ver! Você perceberá que ele esta em ótima companhia - o [Django](https://github.com/django/django), o [Tutorial Django Girls](https://github.com/DjangoGirls/tutorial) e vários outros incríveis projetos open source também hospedam seu código no GitHub. :)
+O seu código agora está no GitHub. Vai lá ver! Você perceberá que ele esta em ótima companhia - o [Django](https://github.com/django/django), o [Tutorial DjangoFest](https://github.com/DjangoGirls/tutorial) e vários outros incríveis projetos open source também hospedam seu código no GitHub. :)
 
 # Configurando o seu blog no PythonAnywhere
 

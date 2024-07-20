@@ -1,4 +1,4 @@
-# Django Girls Tutorial
+# DjangoFest Tutorial
 
 ~ 🖥 Source Code 🖥 ~
 
@@ -23,7 +23,7 @@ Note: we have many changes under way we maybe working on your request already! R
 
 # How to contribute
 
-The Django Girls Tutorial is licensed under a [*Creative Commons Attribution-ShareAlike 4.0*](https://creativecommons.org/licenses/by-sa/4.0/) license. Everyone is free to add, edit and correct the tutorial.
+The DjangoFest Tutorial is licensed under a [*Creative Commons Attribution-ShareAlike 4.0*](https://creativecommons.org/licenses/by-sa/4.0/) license. Everyone is free to add, edit and correct the tutorial.
 
 # Editing basics
 

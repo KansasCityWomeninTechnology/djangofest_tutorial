@@ -505,7 +505,7 @@ Dříve sis vybrala editor kódu v části [editor kódu][2]. Nyní potřebujeme
  [2]: ../code_editor/README.md
 
 ```python
-print('Hello, Django girls!')
+print('Hello, DjangoFest!')
 ```
 
 > **Poznámka:** Měla bys objevit jednu z nejúžasnější věcí na editorech kódu: barvy! V interaktivním režimu Pythonu mělo vše stejnou barvu, ale nyní bys měla vidět, že funkce `print` je jinou barvou než řetězec uvnitř. To se nazývá "zvýrazňování syntaxe" a je to opravdu užitečná funkce při kódování. Barvy ti napoví, že máš neuzavřený řetězce nebo překlep v názvu slova (jako `def` ve funkci, kterou uvidíš níže). To je jeden z důvodů, proč používáme editory kódu :)
@@ -540,7 +540,7 @@ Nyní pomocí Pythonu spustíš kód v souboru takto:
 
 ```
 $ python3 python_intro.py
-Hello, Django girls!
+Hello, DjangoFest!
 ```
 
 V pořádku! Právě jsi spustila svůj první program v Pythonu, který byl uložen do souboru. Cítíš se úžasně?

@@ -71,7 +71,7 @@ class PostForm(forms.ModelForm):
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Django Girls blog</title>
+        <title>DjangoFest blog</title>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
         <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="{% static 'css/blog.css' %}">
@@ -82,7 +82,7 @@ class PostForm(forms.ModelForm):
                 <a href="{% url 'post_new' %}" class="top-menu">
                     {% include './icons/file-earmark-plus.svg' %}
                 </a>
-                <h1><a href="/">Django Girls Blog</a></h1>
+                <h1><a href="/">DjangoFest Blog</a></h1>
             </div>
         </header>
         <main class="content container">
@@ -273,7 +273,7 @@ def post_new(request):
 
 بیایید ببینیم که آیا کار می‌کند. به صفحه http://127.0.0.1:8000/post/new/ بروید، یک `title` و یک `text` اضافه کنید و نتیجه را ببینید! پست جدید وبلاگ اضافه شده است و ما به صفحه `post_detail` هدایت می‌شویم!
 
-ممکن است متوجه شده باشید که قبل از ذخیره پست، تاریخ انتشار را تنظیم کرده‌ایم. بعدها، ما دکمه *publish button* را در بخش **Django Girls Tutorial: Extensions** معرفی می‌کنیم.
+ممکن است متوجه شده باشید که قبل از ذخیره پست، تاریخ انتشار را تنظیم کرده‌ایم. بعدها، ما دکمه *publish button* را در بخش **DjangoFest Tutorial: Extensions** معرفی می‌کنیم.
 
 این عالیه!
 

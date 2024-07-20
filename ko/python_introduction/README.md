@@ -577,7 +577,7 @@ $
 
 {% filename %}editor{% endfilename %}
 ```python
-print('Hello, Django girls!')
+print('Hello, DjangoFest!')
 ```
 
 당연히 여러분은 숙련된 파이썬 개발자에요. 지금 배운 코드를 자유롭게 작성해보세요.
@@ -628,7 +628,7 @@ $ cd ~/Desktop
 {% filename %}command-line{% endfilename %}
 ```
 $ python3 python_intro.py
-Hello, Django girls!
+Hello, DjangoFest!
 ```
 
 > **Note** 윈도우에서 'python3' 명령어를 인식하지 못하면 'python'라고 입력하세요.

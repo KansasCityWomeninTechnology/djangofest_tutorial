@@ -62,7 +62,7 @@ Satırı ekledikten sonra, HTML dosyanız bu şekilde görünmelidir:
 {% load staticfiles %}
 < html>
     <head>
-        <title>Django Girls blog</title>
+        <title>DjangoFest blog</title>
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
         <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -71,7 +71,7 @@ Satırı ekledikten sonra, HTML dosyanız bu şekilde görünmelidir:
     <body>
         <div class="page-header">
             <a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
-            <h1><a href="/">Django Girls Blog</a></h1>
+            <h1><a href="/">DjangoFest Blog</a></h1>
         </div>
         <div class="content container">
             <div class="row">
@@ -261,7 +261,7 @@ def post_new(request):
 
 Bakalım çalışacak mı? http://127.0.0.1:8000/post/new/ sayfasına gidelim, bir `title` ve `text` ekleyelim, kaydedelim... ve işte oldu! Yeni blog postu eklendi ve `post_detail` sayfasına yönlendirildik!
 
-Postu kaydetmeden önce publish date'e değer atandığını fark etmiş olabilirsin. Daha sonra *publish button*'nı **Django Girls Tutorial: Ek konular**'da anlatacağız.
+Postu kaydetmeden önce publish date'e değer atandığını fark etmiş olabilirsin. Daha sonra *publish button*'nı **DjangoFest Tutorial: Ek konular**'da anlatacağız.
 
 Süper!
 

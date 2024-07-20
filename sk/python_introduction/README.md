@@ -601,7 +601,7 @@ V jednej z [predošlých častí](../code_editor/README.md) sme si vybrali edito
 {% filename %}editor{% endfilename %}
 
 ```python
-print('Ahoj, Django Girls!')
+print('Ahoj, DjangoFest!')
 ```
 
 Prirodzene, teraz si už poriadne skúsená Python vývojárka, takže pokojne napíš nejaký kód, ktorý si sa dnes naučila.
@@ -667,7 +667,7 @@ Teraz použi Python na spustenie kódu v súbore:
 {% filename %}command-line{% endfilename %}
 
     $ python3 python_intro.py
-    Ahoj, Django Girls!
+    Ahoj, DjangoFest!
     
 
 Poznámka: na Windowse "python3" ako príkaz neexistuje. Na spustenie súboru použi "python":

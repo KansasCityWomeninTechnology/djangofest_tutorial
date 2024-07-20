@@ -1,8 +1,8 @@
 # Ha otthon csinálod a tutorialt
 
-Ha otthon csinálod a tutorialt, nem valamelyik [Django Girls eseményen](https://djangogirls.org/events/), át is ugorhatod ezt a fejezetet, és folytathatod a [Hogy működik az Internet?](../how_the_internet_works/README.md) fejezettel.
+Ha otthon csinálod a tutorialt, nem valamelyik [DjangoFest eseményen](https://djangogirls.org/events/), át is ugorhatod ezt a fejezetet, és folytathatod a [Hogy működik az Internet?](../how_the_internet_works/README.md) fejezettel.
 
-Ez az oldal csak egy helyre gyűjti az installációk leírását, amikkel később úgyis találkozni fogsz a tutorial során. A Django Girls workshopok előtt mindig van egy installációs esemény, amikor mindent telepítünk, hogy a workshopon már ne kelljen ezzel bajlódni, ezért hasznos nekünk, hogy mindent megtalálunk egy helyen.
+Ez az oldal csak egy helyre gyűjti az installációk leírását, amikkel később úgyis találkozni fogsz a tutorial során. A DjangoFest workshopok előtt mindig van egy installációs esemény, amikor mindent telepítünk, hogy a workshopon már ne kelljen ezzel bajlódni, ezért hasznos nekünk, hogy mindent megtalálunk egy helyen.
 
 Ha te is hasznosnak találod, nyugodtan elvégezheted ezt a fejezetet. De ha inkább fejest szeretnél ugrani a tanulásba, mielőtt egy csomó mindent telepítenél a gépedre, nyugodtan ugord át a fejezetet! Később úgyis elmagyarázzuk az összes telepítést.
 

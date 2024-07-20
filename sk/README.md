@@ -1,4 +1,4 @@
-# Django Girls tutoriál
+# DjangoFest tutoriál
 
 [![Gitter](https://badges.gitter.im/DjangoGirls/tutorial.svg)](https://gitter.im/DjangoGirls/tutorial)
 
@@ -6,7 +6,7 @@
 
 ## Vitaj
 
-Vitaj v Django Girls tutoriáli! Tešíme sa, že tu si. :) V tomto tutoriáli sa vydáme na cestu pod kapotu webových technológií a ponúkneme ti letmý pohľad na všetky čiastočky a kúsky, ktoré musia do seba zapadnúť, aby vytvorili web tak, ako ho poznáme.
+Vitaj v DjangoFest tutoriáli! Tešíme sa, že tu si. :) V tomto tutoriáli sa vydáme na cestu pod kapotu webových technológií a ponúkneme ti letmý pohľad na všetky čiastočky a kúsky, ktoré musia do seba zapadnúť, aby vytvorili web tak, ako ho poznáme.
 
 Ako to býva so všetkým, čo je neznáme, aj toto bude dobrodružstvo - ale žiadny strach, keď si už nabrala odvahu byť tu, zvládneš to v pohode. :)
 
@@ -34,7 +34,7 @@ OK, [začnime pekne po poriadku...](./how_the_internet_works/README.md)
 
 ## Nasledovanie tutoriálu doma
 
-Zúčastniť sa Django Girls workshopu je skvelé, ale uvedomujeme si, že nie vždy je možné niektorý navštíviť. Preto ťa chceme povzbudiť v tom, aby si skúsila postupovať podľa tohto tutoriálu doma. Pre čitateľky doma v súčasnosti pripravujeme videá, vďaka ktorým bude jednoduchšie tutoriál nasledovať sama. Stále sa na tom pracuje, ale viac a viac vecí bude čoskoro na kanáli na YouTube pod názvom [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A/feed).
+Zúčastniť sa DjangoFest workshopu je skvelé, ale uvedomujeme si, že nie vždy je možné niektorý navštíviť. Preto ťa chceme povzbudiť v tom, aby si skúsila postupovať podľa tohto tutoriálu doma. Pre čitateľky doma v súčasnosti pripravujeme videá, vďaka ktorým bude jednoduchšie tutoriál nasledovať sama. Stále sa na tom pracuje, ale viac a viac vecí bude čoskoro na kanáli na YouTube pod názvom [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A/feed).
 
 V každej kapitole, ktorá už bola spracovaná, sa nachádza odkaz na príslušné video.
 

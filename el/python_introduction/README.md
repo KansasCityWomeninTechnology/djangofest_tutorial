@@ -615,7 +615,7 @@ $
 {% filename %}editor{% endfilename %}
 
 ```python
-print('Hello, Django girls!')
+print('Hello, DjangoFest!')
 ```
 
 Προφανώς, είστε ένας αρκετά έμπειρος Python developer τώρα, οπότε γράφτε κάποιον κώδικα μέσα στο αρχείο.
@@ -679,7 +679,7 @@ data-collapse=true ces-->
 {% filename %}command-line{% endfilename %}
 
     $ python3 python_intro.py
-    Hello, Django girls!
+    Hello, DjangoFest!
     
 
 Σημείωση: στα Windows η εντολή 'python3' δεν αναγνωρίζεται. Αντ'αυτού χρησιμοποιήστε την εντολή 'python':

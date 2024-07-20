@@ -1,4 +1,4 @@
-# Il tutorial di Django Girls
+# Il tutorial di DjangoFest
 
 [![Gitter](https://badges.gitter.im/DjangoGirls/tutorial.svg)](https://gitter.im/DjangoGirls/tutorial)
 
@@ -6,7 +6,7 @@
 
 ## Benvenuta
 
-Benvenuta al tutorial Django Girls! Siamo felici di vederti qui. :) In questo tutorial, vi porteremo in un viaggio nella sfera delle tecnologie web, offrendovi uno sguardo di tutti i bit e pezzi che hanno bisogno di stare insieme per far funzionare il web così come lo conosciamo.
+Benvenuta al tutorial DjangoFest! Siamo felici di vederti qui. :) In questo tutorial, vi porteremo in un viaggio nella sfera delle tecnologie web, offrendovi uno sguardo di tutti i bit e pezzi che hanno bisogno di stare insieme per far funzionare il web così come lo conosciamo.
 
 Come per tutte le cose sconosciute, questa sarà un'avventura - ma non preoccupatevi, dal momento che hai già avuto il coraggio di arrivare fino a qui, andrà tutto bene :)
 
@@ -34,7 +34,7 @@ OK, [cominciamo dall'inizio...](./how_the_internet_works/README.md)
 
 ## Seguire il tutorial da casa
 
-È fantastico prendere parte a un workshop Django Girls, ma siamo consapevoli che non sempre è possibile essere presenti a un workshop. Questo è il motivo per cui ti invitiamo a provare a seguire il tutorial da casa. Per chi ci segue da casa, stiamo preparando alcuni video che renderanno più facile seguire il tutorial da sole. È un progetto ancora in corso, ma col tempo gli argomenti trattati sul nostro canale YouTube [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A/feed) saranno sempre di più.
+È fantastico prendere parte a un workshop DjangoFest, ma siamo consapevoli che non sempre è possibile essere presenti a un workshop. Questo è il motivo per cui ti invitiamo a provare a seguire il tutorial da casa. Per chi ci segue da casa, stiamo preparando alcuni video che renderanno più facile seguire il tutorial da sole. È un progetto ancora in corso, ma col tempo gli argomenti trattati sul nostro canale YouTube [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A/feed) saranno sempre di più.
 
 In ogni capitolo già trattato, c'è un link che punta al video corrispondente.
 

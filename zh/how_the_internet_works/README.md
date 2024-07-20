@@ -32,7 +32,7 @@
 
  [3]: images/internet_2.png
 
-想象一下当你键入 https://djangogirls.org ，你会发送一封信说：“亲爱的Django Girls，我想看看djangogirls.org网站，请将它发送给我！”
+想象一下当你键入 https://djangogirls.org ，你会发送一封信说：“亲爱的DjangoFest，我想看看djangogirls.org网站，请将它发送给我！”
 
 你的信件去了离你最近的邮局。 然后它去离你的收件人稍近一点的邮局，然后再去另一个，以此类推地到达它的目的地。 唯一的事情是，如果你将许多信件 (*数据包*) 发送到同一个地方，他们可以通过完全不同邮政局 (*路由器*)。 这取决于每个办公室的分布情况。
 

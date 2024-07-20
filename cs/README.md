@@ -1,4 +1,4 @@
-# Django Girls Tutoriál
+# DjangoFest Tutoriál
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/DjangoGirls/tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > Tento návod je licencován pod Creative Commons Attribution-ShareAlike 4.0 mezinárodní licencí. Chcete-li zobrazit kopii této licence, navštivte https://creativecommons.org/licenses/by-sa/4.0/

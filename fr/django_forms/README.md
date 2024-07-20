@@ -71,7 +71,7 @@ Après avoir ajouté cette ligne, votre fichier HTML devrait maintenant ressembl
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Django Girls blog</title>
+        <title>DjangoFest blog</title>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
         <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="{% static 'css/blog.css' %}">
@@ -82,7 +82,7 @@ Après avoir ajouté cette ligne, votre fichier HTML devrait maintenant ressembl
                 <a href="{% url 'post_new' %}" class="top-menu">
                     {% include './icons/file-earmark-plus.svg' %}
                 </a>
-                <h1><a href="/">Django Girls Blog</a></h1>
+                <h1><a href="/">DjangoFest Blog</a></h1>
             </div>
         </header>
         <main class="content container">
@@ -273,7 +273,7 @@ def post_new(request):
 
 Voyons si ça marche. Allez à l'adresse http://127.0.0.1:8000/post/new/, ajoutez des valeurs dans les champs `title` et du `text`, sauvegardez ... et voilà ! Le nouveau post est bien créé et vous êtes redirigé vers la page `post_detail` !
 
-Vous avez peut-être remarqué que nous avons choisi une date de publication avant de sauvegarder le post. Nous en aurons besoin lorsque nous créerons le *publish button* (bouton publier) dans **l'une des extensions du tutoriel Django Girls** (en anglais).
+Vous avez peut-être remarqué que nous avons choisi une date de publication avant de sauvegarder le post. Nous en aurons besoin lorsque nous créerons le *publish button* (bouton publier) dans **l'une des extensions du tutoriel DjangoFest** (en anglais).
 
 Encore bravo !
 

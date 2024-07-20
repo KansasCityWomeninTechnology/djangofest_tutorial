@@ -52,7 +52,7 @@ Funguje to! Ale my chceme, aby sa príspevky zobrazili ako tie statické, ktoré
 
 ```html
 <header>
-    <h1><a href="/">Django Girls Blog</a></h1>
+    <h1><a href="/">DjangoFest Blog</a></h1>
 </header>
 
 {% for post in posts %}

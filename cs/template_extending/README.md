@@ -24,7 +24,7 @@ Pak jej otevři a zkopíruj vše z `post_list.html` do `base.html` souboru, jako
 {% load staticfiles %}
 <html>
      <head>
-         <title>Django Girls blog</title>
+         <title>DjangoFest blog</title>
          <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
          <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
          <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -32,7 +32,7 @@ Pak jej otevři a zkopíruj vše z `post_list.html` do `base.html` souboru, jako
      </head>
      <body>
          <div class="page-header">
-             <h1><a href="/">Django Girls Blog</a></h1>
+             <h1><a href="/">DjangoFest Blog</a></h1>
          </div>
          <div class="content container">
              <div class="row">
@@ -58,7 +58,7 @@ Pak v `base.html` nahraď celé `<body>` (vše mezi `<body>` a `</body>`) tímto
 ```html
 <body>
      <div class="page-header">
-          <h1><a href="/">Django Girls Blog</a></h1>
+          <h1><a href="/">DjangoFest Blog</a></h1>
      </div>
      <div class="content container">
          <div class="row">

@@ -56,7 +56,7 @@ Miután hozzáadtad ezt a sort, így fog kinézni a html fájlod:
 {% load static %}
 <html>
     <head>
-        <title>Django Girls blog</title>
+        <title>DjangoFest blog</title>
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
         <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -65,7 +65,7 @@ Miután hozzáadtad ezt a sort, így fog kinézni a html fájlod:
     <body>
         <div class="page-header">
             <a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
-            <h1><a href="/">Django Girls Blog</a></h1>
+            <h1><a href="/">DjangoFest Blog</a></h1>
         </div>
         <div class="content container">
             <div class="row">
@@ -235,7 +235,7 @@ def post_new(request):
 
 Nézzük meg, hogy működik-e. Menj a http://127.0.0.1:8000/post/new/ oldalra, adj hozzá egy `title`-t és egy `text`-et, mentsd el... és voilà! Az új poszt bekerült az adatbázisba, és át lettél irányítva a `post_detail` oldalra!
 
-Talán észrevetted, hogy a poszt elmentése előtt beállítjuk a közzététel dátumát. Később, a **Django Girls Tutorial: Extensions** részben egy *publish* gombot is készítünk.
+Talán észrevetted, hogy a poszt elmentése előtt beállítjuk a közzététel dátumát. Később, a **DjangoFest Tutorial: Extensions** részben egy *publish* gombot is készítünk.
 
 Ez nagyszerű!
 

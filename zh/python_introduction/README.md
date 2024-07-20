@@ -464,7 +464,7 @@
  [2]: code_editor/README. md
 
     python
-    print('Hello, Django girls!')
+    print('Hello, DjangoFest!')
     
 
 > **注意**你应该注意到代码编辑器最酷的事情之一: 颜色! 在 Python 控制台中，一切都是相同的颜色，现在你应该看到 `打印` 函数和字符串的颜色不同。 这就所谓的"语法高亮"，在编写代码时是非常有用的功能。 颜色会给你提示，如未闭合的字符串或关键字名称拼写错误 （如函数中的 `def` 关键字，我们会在下面看到） 。 这是我们使用代码编辑器的原因之一:)
@@ -495,7 +495,7 @@
 现在文件中输入这样的代码并使用 Python 执行：
 
     $ python3 python_intro.py
-    Hello, Django girls!
+    Hello, DjangoFest!
     
 
 好吧！你刚刚运行了你保存在文件中的第一个 python 程序。感觉棒极了吗？

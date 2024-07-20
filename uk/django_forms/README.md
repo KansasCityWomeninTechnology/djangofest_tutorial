@@ -55,7 +55,7 @@ class PostForm(forms.ModelForm):
 {% load static %}
 <html>
     <head>
-        <title>Django Girls blog</title>
+        <title>DjangoFest blog</title>
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
         <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -64,7 +64,7 @@ class PostForm(forms.ModelForm):
     <body>
         <div class="page-header">
             <a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
-            <h1><a href="/">Django Girls Blog</a></h1>
+            <h1><a href="/">DjangoFest Blog</a></h1>
         </div>
         <div class="content container">
             <div class="row">
@@ -231,7 +231,7 @@ def post_new(request):
 
 Подивимося, чи усе працює. Зайдіть на сторінку http://127.0.0.1:8000/post/new/, додайте `title` та `text`, збережіть... і вуаля! Новий блог пост успішно додано і нас автоматично перенаправило на сторінку `post_detail`!
 
-Ви могли помітити, що ми встановлюємо дату публікації, перед збереженням поста. Пізніше, ми введемо *кнопку публікації* в **Django Girls Tutorial: Розширте ваш додаток**.
+Ви могли помітити, що ми встановлюємо дату публікації, перед збереженням поста. Пізніше, ми введемо *кнопку публікації* в **DjangoFest Tutorial: Розширте ваш додаток**.
 
 Просто чудово!
 

@@ -120,14 +120,14 @@ W3Schools에서 [CSS 선택자](https://www.w3schools.com/cssref/css_selectors.a
 {% load static %}
 <html>
     <head>
-        <title>Django Girls blog</title>
+        <title>DjangoFest blog</title>
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="{% static 'css/blog.css' %}">
     </head>
     <body>
         <div>
-            <h1><a href="/">Django Girls Blog</a></h1>
+            <h1><a href="/">DjangoFest Blog</a></h1>
         </div>
 
         {% for post in posts %}
@@ -189,7 +189,7 @@ h1 a {
 {% filename %}blog/templates/blog/post_list.html{% endfilename %}
 ```html
 <div class="page-header">
-    <h1><a href="/">Django Girls Blog</a></h1>
+    <h1><a href="/">DjangoFest Blog</a></h1>
 </div>```
 
 그리고 블로그 게시글을 나타내는 `div`에 `post`라고 클래스명을 붙여보세요.

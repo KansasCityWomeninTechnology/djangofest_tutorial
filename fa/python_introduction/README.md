@@ -616,7 +616,7 @@ False
 {% filename %}editor{% endfilename %}
 
 ```python
-print('Hello, Django girls!')
+print('Hello, DjangoFest!')
 ```
 
 به وضوح، حالا شما یک توسعه دهنده پایتون کاربلد هستید، پس کمی از کدهایی که امروز یاد گرفتید را بنویسید.
@@ -682,7 +682,7 @@ data-collapse=true ces-->
 {% filename %}خط فرمان{% endfilename %}
 
     $ python3 python_intro.py
-    Hello, Django girls!
+    Hello, DjangoFest!
     
 
 نکته: در ویندوز 'pyhton3' یک دستور محسوب نمیشود. به جای آن از 'python' برای اجرای فایل استفاده کنید:

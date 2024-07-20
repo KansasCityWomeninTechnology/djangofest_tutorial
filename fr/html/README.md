@@ -129,11 +129,11 @@ Voici un exemple d’un modèle complet, copiez et collez-le dans `blog/template
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Blog Django Girls</title>
+        <title>Blog DjangoFest</title>
     </head>
     <body>
         <header>
-            <h1><a href="/">Blog Django Girls</a></h1>
+            <h1><a href="/">Blog DjangoFest</a></h1>
         </header>
 
         <article>

@@ -1,6 +1,6 @@
 # Pokiaľ robíš tutoriál doma
 
-Pokiaľ robíš tento tutoriál doma, a nie na jednej z [Django Girls akcií](https://djangogirls.org/events/), môžeš úplne preskočiť túto kapitolu a pokračovať rovno na kapitolu [Ako funguje internet](../how_the_internet_works/README.md).
+Pokiaľ robíš tento tutoriál doma, a nie na jednej z [DjangoFest akcií](https://djangogirls.org/events/), môžeš úplne preskočiť túto kapitolu a pokračovať rovno na kapitolu [Ako funguje internet](../how_the_internet_works/README.md).
 
 Je to preto, lebo v tutoriáli sa zaoberáme inštaláciou vecí, ktoré sú potrebné - toto je len dodatočná stránka, ktorá zhromažďuje všetky pokyny na inštaláciu na jednom mieste (čo je užitočné pre niektoré formáty workshopov). Ak chceš, môžeš si nainštalovať všetko, čo spomíname na tejto stránke, rovno teraz. Ale pokiaľ sa chceš začať učiť predtým, ako si nainštaluješ množstvo vecí na svoj počítač, preskoč túto kapitolu a my ti vysvetlíme, ako veci nainštalovať, neskôr, priamo keď ich budeš potrebovať.
 
@@ -8,7 +8,7 @@ Veľa šťastia!
 
 # Ak sa zúčastníš workshopu
 
-Ak sa chystáš zúčastniť [Django Girls eventu](https://djangogirls.org/events/):
+Ak sa chystáš zúčastniť [DjangoFest eventu](https://djangogirls.org/events/):
 
 * Súčasťou tvojho workshopu môže byť "inštalačná párty" pred samotným workshopom. Ak si na takejto inštalačnej párty, táto stránka je pre teba! Tieto inštrukcie ti pomôžu nainštalovať si všetko potrebné pre workshop. Ak treba, tak s pomocou mentoriek alebo mentorov. Potom na samotnom workshope budeš môcť preskočiť inštalačné inštrukcie, ktoré sa objavia v hlavnom tutoriáli, keď sa k nim dostaneš.
 * Organizátorky a organizátori tvojho workshopu ťa možno poprosili, aby si si skúsila všetko nainštalovať na svojom počítači doma predtým, než začne workshop. Ak to je tvoj prípad, táto stránka je pre teba! Nasleduj tieto inštrukcie, ako sa ti bude dať. Pokiaľ sa ti nepodarí niečo konkrétne nainštalovať, môžeš sa spýtať svojej mentorky či mentora neskôr na samotnom workshope, keď sa dostaneš po časť tutoriálu s pokynmi k inštalácii.

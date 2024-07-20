@@ -6,15 +6,15 @@ Date muchas felicitaciones. **¡Eres increíble!** ¡Estamos orgullosas! <3
 
 Toma un descanso y ¡relájate!. Acabas de hacer algo realmente grande.
 
-Después de eso, asegúrate de seguir a Django Girls en [Facebook](http://facebook.com/djangogirls) o [Twitter](https://twitter.com/djangogirls) para estar al día.
+Después de eso, asegúrate de seguir a DjangoFest en [Facebook](http://facebook.com/djangogirls) o [Twitter](https://twitter.com/djangogirls) para estar al día.
 
 ### ¿Me puedes recomendar recursos adicionales?
 
-¡ Sí! Hay un *montón* de recursos en línea para el aprendizaje de todas las clases de habilidades en programación – puede ser algo intimidante donde ir, pero lo tenemos cubierto. Cualquiera que fueran tus intereses antes de que vinieras a Django Girls, y los intereses que hayas desarrollado a lo largo del tutorial, aquí hay algunos recursos gratuitos (o recursos con grandes componentes libres) que puedes utilizar para llegar hasta donde quieras.
+¡ Sí! Hay un *montón* de recursos en línea para el aprendizaje de todas las clases de habilidades en programación – puede ser algo intimidante donde ir, pero lo tenemos cubierto. Cualquiera que fueran tus intereses antes de que vinieras a DjangoFest, y los intereses que hayas desarrollado a lo largo del tutorial, aquí hay algunos recursos gratuitos (o recursos con grandes componentes libres) que puedes utilizar para llegar hasta donde quieras.
 
 #### Django
 
-- En nuestro libro [Django Girls Tutorial: Extensions](https://tutorial-extensions.djangogirls.org/)
+- En nuestro libro [DjangoFest Tutorial: Extensions](https://tutorial-extensions.djangogirls.org/)
 - [El tutorial oficial de Django](https://docs.djangoproject.com/en/2.2/intro/tutorial01/)
 - [Comienza a usar las lecciones en vídeo de Django](http://www.gettingstartedwithdjango.com/)
 

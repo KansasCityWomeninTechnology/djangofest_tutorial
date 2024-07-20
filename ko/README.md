@@ -1,4 +1,4 @@
-# 장고걸스 튜토리얼 (Django Girls Tutorial)
+# 장고걸스 튜토리얼 (DjangoFest Tutorial)
 
 [![Gitter](https://badges.gitter.im/DjangoGirls/tutorial.svg)](https://gitter.im/DjangoGirls/tutorial)
 

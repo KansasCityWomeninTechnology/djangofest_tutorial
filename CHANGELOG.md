@@ -82,7 +82,7 @@
 
 - Chapter 5: inequality operator is not described [\#245](https://github.com/DjangoGirls/tutorial/issues/245)
 
-- translation of Django Girls Tutorial into Russian [\#238](https://github.com/DjangoGirls/tutorial/issues/238)
+- translation of DjangoFest Tutorial into Russian [\#238](https://github.com/DjangoGirls/tutorial/issues/238)
 
 - Adding Farsi translation [\#236](https://github.com/DjangoGirls/tutorial/issues/236)
 
@@ -92,7 +92,7 @@
 
 - There is no translations of Chinese [\#226](https://github.com/DjangoGirls/tutorial/issues/226)
 
-- git commit -m "My Django Girls app"  will not work [\#224](https://github.com/DjangoGirls/tutorial/issues/224)
+- git commit -m "My DjangoFest app"  will not work [\#224](https://github.com/DjangoGirls/tutorial/issues/224)
 
 - Chapter 12: replace 'mysite' by 'djangogirls' [\#223](https://github.com/DjangoGirls/tutorial/issues/223)
 
@@ -118,7 +118,7 @@
 
 - missing jQuery [\#184](https://github.com/DjangoGirls/tutorial/issues/184)
 
-- wrong directory in Django Girls Tutorial: Extensions [\#183](https://github.com/DjangoGirls/tutorial/issues/183)
+- wrong directory in DjangoFest Tutorial: Extensions [\#183](https://github.com/DjangoGirls/tutorial/issues/183)
 
 - file encoding [\#180](https://github.com/DjangoGirls/tutorial/issues/180)
 

@@ -115,13 +115,13 @@ Deine Datei sollte jetzt so aussehen:
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Django Girls blog</title>
+        <title>DjangoFest blog</title>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
         <link rel="stylesheet" href="{% static 'css/blog.css' %}">
     </head>
     <body>
         <header>
-            <h1><a href="/">Django Girls Blog</a></h1>
+            <h1><a href="/">DjangoFest Blog</a></h1>
         </header>
 
         {% for post in posts %}
@@ -187,7 +187,7 @@ Geben wir also einigen Teilen deines HTML-Codes solche Namen. Ersetze den `heade
 ```html
 <header class="page-header">
     <div class="container">
-        <h1><a href="/">Django Girls Blog</a></h1>
+        <h1><a href="/">DjangoFest Blog</a></h1>
     </div>
 </header>
 ```

@@ -75,7 +75,7 @@ A nakonec uložíme naše změny. Přejdi do konzole a spusť tyto příkazy:
 
 ```
 $ git add --all .
-$ git commit -m "My Django Girls app, first commit"
+$ git commit -m "My DjangoFest app, first commit"
 [...]
 13 files changed, 200 insertions(+)
  create mode 100644 .gitignore
@@ -125,7 +125,7 @@ Branch master set up to track remote branch master from origin.
 
 <!--TODO: maybe do ssh keys installs in install party, and point ppl who dont have it to an extention -->
 
-Tvůj kód je nyní na GitHubu. Můžeš se na něj jít podívat! Zjistíš, že je v dobré společnosti - [Django][5], [Django girls tutorial][6] a mnoha dalších velkých open source software projektů, které také hostí svůj kód na GitHubu :)
+Tvůj kód je nyní na GitHubu. Můžeš se na něj jít podívat! Zjistíš, že je v dobré společnosti - [Django][5], [DjangoFest tutorial][6] a mnoha dalších velkých open source software projektů, které také hostí svůj kód na GitHubu :)
 
  [5]: https://github.com/django/django
  [6]: https://github.com/DjangoGirls/tutorial

@@ -28,7 +28,7 @@ Büyüleyici, değil mi? Ama, İnternet'e bağlanan her makine arasında bir kab
 
 ![Şekil 1.3](images/internet_2.png)
 
-https://djangogirls.org yazdığınızda: "Sevgili Django Girls, djangogirls.org websitesini görmek istiyorum. Lütfen bana gönderin!" diyen bir mektup gönderdiğinizi düşünün.
+https://djangogirls.org yazdığınızda: "Sevgili DjangoFest, djangogirls.org websitesini görmek istiyorum. Lütfen bana gönderin!" diyen bir mektup gönderdiğinizi düşünün.
 
 Mektubunuz size en yakın postaneye gider. Daha sonra sizden biraz daha uzak bir postaneye gider, daha sonra biraz daha uzaktakine, daha uzağa ve en son gitmesi gereken yere. Tek farklı olan, aynı yere bir çok mektup(*veri paketi*) gönderirseniz, tamamen farklı postanelerden(*yönlendirici*) geçebilir. Bu, her bir postanede nasıl dağıtım yapıldığına bağlıdır.
 

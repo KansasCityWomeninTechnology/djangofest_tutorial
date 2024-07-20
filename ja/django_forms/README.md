@@ -62,7 +62,7 @@ class PostForm(forms.ModelForm):
 {% load static %}
 <html>
     <head>
-        <title>Django Girls blog</title>
+        <title>DjangoFest blog</title>
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
         <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -71,7 +71,7 @@ class PostForm(forms.ModelForm):
     <body>
         <div class="page-header">
             <a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
-            <h1><a href="/">Django Girls Blog</a></h1>
+            <h1><a href="/">DjangoFest Blog</a></h1>
         </div>
         <div class="content container">
             <div class="row">
@@ -261,7 +261,7 @@ def post_new(request):
 
 では動作確認してみましょう。 http://127.0.0.1:8000/post/new/ に行き、 `title` と `text` を追加し、保存すると…… じゃじゃーん！ 新しいブログ記事が追加され、post_detail にリダイレクトされます！
 
-ブログ記事を保存する前に公開日をセットしていることに気づいたかもしれません。後ほど、**Django Girls Tutorial: Extensions**にて *公開ボタン* を導入します。
+ブログ記事を保存する前に公開日をセットしていることに気づいたかもしれません。後ほど、**DjangoFest Tutorial: Extensions**にて *公開ボタン* を導入します。
 
 素晴らしい！
 

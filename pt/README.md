@@ -1,4 +1,4 @@
-# Tutorial Django Girls
+# Tutorial DjangoFest
 
 [![Gitter](https://badges.gitter.im/DjangoGirls/tutorial.svg)](https://gitter.im/DjangoGirls/tutorial)
 
@@ -6,7 +6,7 @@
 
 ## Bem-vinda
 
-Bem-vinda ao Tutorial Django Girls! Estamos felizes em vê-la aqui :) Neste tutorial, vamos levá-la em uma viagem por baixo do capô das tecnologias web, oferecendo-lhe um vislumbre de todos os bits e peças que precisam se unir para fazer a web funcionar tal como a conhecemos.
+Bem-vinda ao Tutorial DjangoFest! Estamos felizes em vê-la aqui :) Neste tutorial, vamos levá-la em uma viagem por baixo do capô das tecnologias web, oferecendo-lhe um vislumbre de todos os bits e peças que precisam se unir para fazer a web funcionar tal como a conhecemos.
 
 Como todas as coisas desconhecidas, isto vai ser uma aventura - mas não se preocupe! Já que você teve coragem para estar aqui, você vai ficar bem :)
 
@@ -34,7 +34,7 @@ OK, [vamos começar pelo começo...](./how_the_internet_works/README.md)
 
 ## Seguindo o tutorial em casa
 
-É incrível participar de um workshop de Django Girls, mas estamos conscientes de que isso nem sempre é possível. É por isso que encorajamos você a tentar seguir este tutorial em casa. Para leitores em casa, estamos atualmente preparando vídeos que facilitarão seguir o tutorial por conta própria. Ainda é um trabalho em andamento, mas mais e mais coisas serão abordadas em breve no canal do YouTube [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A/feed).
+É incrível participar de um workshop de DjangoFest, mas estamos conscientes de que isso nem sempre é possível. É por isso que encorajamos você a tentar seguir este tutorial em casa. Para leitores em casa, estamos atualmente preparando vídeos que facilitarão seguir o tutorial por conta própria. Ainda é um trabalho em andamento, mas mais e mais coisas serão abordadas em breve no canal do YouTube [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A/feed).
 
 Em cada capítulo que já abordamos, há um link que aponta para o vídeo correspondente.
 

@@ -52,7 +52,7 @@ Es funktioniert! Aber wir wollen, dass die Posts so wie die statischen Posts ang
 
 ```html
 <header>
-    <h1><a href="/">Django Girls Blog</a></h1>
+    <h1><a href="/">DjangoFest Blog</a></h1>
 </header>
 
 {% for post in posts %}

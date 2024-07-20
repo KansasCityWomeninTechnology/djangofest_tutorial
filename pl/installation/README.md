@@ -1,6 +1,6 @@
 # Jeśli robisz ten kurs w domu
 
-Jeśli robisz ten kurs w domu, a nie w trakcie jednego z [warsztatów Django Girls](https://djangogirls.org/events/), możesz pominąć ten rozdział i przejść od razu do [Jak działa internet?](../how_the_internet_works/README.md).
+Jeśli robisz ten kurs w domu, a nie w trakcie jednego z [warsztatów DjangoFest](https://djangogirls.org/events/), możesz pominąć ten rozdział i przejść od razu do [Jak działa internet?](../how_the_internet_works/README.md).
 
 Dzieje się tak, ponieważ zajmujemy się instalowaniem rzeczy, które są potrzebne w tutorialu - jest to tylko dodatkowa strona, która gromadzi wszystkie instrukcje dotyczące instalacji w jednym miejscu (co jest przydatne w niektórych formach warsztatów). Jeśli chcesz, możesz teraz zainstalować wszystko, co jest na tej stronie. Ale jeśli wolisz zacząć naukę już teraz bez instalowania kilku nowych rzeczy na swoim komputerze, pomiń ten rozdział. Wszystko wytłumaczymy później, kiedy będzie to potrzebne.
 
@@ -8,7 +8,7 @@ Powodzenia!
 
 # Jeśli uczestniczysz w warsztatach:
 
-Jeśli uczestniczysz w wydarzeniu Django Girls:
+Jeśli uczestniczysz w wydarzeniu DjangoFest:
 
 * Twój warsztat może mieć "część instalacyjną" przed głównym warsztatem. Jeśli jesteś w części instalacyjnej, to ta strona jest dla Ciebie! Postępuj zgodnie z instrukcjami, aby uzyskać wszystko, czego potrzebujesz do warsztatów. W razie potrzeby poproś o pomoc mentorów. Na warsztatach będziesz mogła pominąć tutoriale instalacji, które już wykonałaś.
 * Organizatorzy warsztatów mogą Cię prosić, abyś w domu spróbowała zainstalować wszystkie potrzebne rzeczy na komputerze przed rozpoczęciem warsztatów. Jeśli zostałaś poproszona, aby to zrobić, ta strona jest dla Ciebie! Postępuj zgodnie z instrukcjami umieszczonymi tutaj, najlepiej jak potrafisz! Następnie, podczas głównego warsztatu, gdy dojdziesz do etapu instalacji w głównym samouczku, jeśli nie możesz go zainstalować, możesz uzyskać pomoc od swojego mentora.

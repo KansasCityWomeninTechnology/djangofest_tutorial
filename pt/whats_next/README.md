@@ -6,15 +6,15 @@ Parabéns! Você **arrasou**. Estamos orgulhosas! <3
 
 Tire uma pausa e relaxe! Você acabou de fazer algo realmente grande.
 
-Depois disso, certifique-se de seguir o Django Girls no [Facebook](http://facebook.com/djangogirls) ou no [Twitter](https://twitter.com/djangogirls) para se manter atualizada.
+Depois disso, certifique-se de seguir o DjangoFest no [Facebook](http://facebook.com/djangogirls) ou no [Twitter](https://twitter.com/djangogirls) para se manter atualizada.
 
 ### Vocês podem recomendar outras fontes de informação?
 
-Sim! Existem *muitos* recursos online para aprender todos os tipos de habilidade de programação – pode ser bastante assustador decidir para onde prosseguir, mas nos te damos cobertura. Quaisquer que fossem seus interesses antes de vir à Django Girls, e quaisquer interesses você tenha adquirido ao longo do tutorial, aqui estão alguns recursos gratuitos (ou recursos com grandes partes gratuitas) que você pode usar para chegar até onde deseja estar.
+Sim! Existem *muitos* recursos online para aprender todos os tipos de habilidade de programação – pode ser bastante assustador decidir para onde prosseguir, mas nos te damos cobertura. Quaisquer que fossem seus interesses antes de vir à DjangoFest, e quaisquer interesses você tenha adquirido ao longo do tutorial, aqui estão alguns recursos gratuitos (ou recursos com grandes partes gratuitas) que você pode usar para chegar até onde deseja estar.
 
 #### Django
 
-- Nosso outro livro: [Django Girls Tutorial: Extensions](https://tutorial-extensions.djangogirls.org/)
+- Nosso outro livro: [DjangoFest Tutorial: Extensions](https://tutorial-extensions.djangogirls.org/)
 - [Tutorial oficial do Django](https://docs.djangoproject.com/en/2.0/intro/tutorial01/)
 - [Começando com as aulas de vídeo do Django](http://www.gettingstartedwithdjango.com/)
 

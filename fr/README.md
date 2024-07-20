@@ -1,4 +1,4 @@
-# Tutoriel de Django Girls
+# Tutoriel de DjangoFest
 
 [![Gitter](https://badges.gitter.im/DjangoGirls/tutorial.svg)](https://gitter.im/DjangoGirls/tutorial)
 
@@ -6,7 +6,7 @@
 
 ## Bienvenue
 
-Bienvenue dans le tutoriel Django Girls ! Nous sommes heureux de vous voir ici. :) Dans ce tutoriel, nous allons vous emmener dans un voyage sous le capot des technologies web, en vous offrant un aperçu de tous les pièces et les morceaux qui doivent être assemblés pour que le web fonctionne tel que nous le connaissons.
+Bienvenue dans le tutoriel DjangoFest ! Nous sommes heureux de vous voir ici. :) Dans ce tutoriel, nous allons vous emmener dans un voyage sous le capot des technologies web, en vous offrant un aperçu de tous les pièces et les morceaux qui doivent être assemblés pour que le web fonctionne tel que nous le connaissons.
 
 Comme avec toutes les choses inconnues, cela va être une aventure, mais pas de soucis, puisque vous avez déjà eu le courage d'arriver ici, vous allez y arriver. :)
 
@@ -34,7 +34,7 @@ OK, [commençons par le commencement…](./how_the_internet_works/README.md)
 
 ## Suivre le tutoriel chez soi
 
-Il est formidable de participer à un atelier Django Girls, mais nous comprenons qu'il n'est pas toujours facile d'en trouver un. C'est pourquoi nous vous encourageons à essayer de suivre ce tutoriel chez vous. Pour les lectrices à la maison, nous sommes actuellement en train de préparer des vidéos afin qu'il vous soit plus facile de suivre le tutoriel de votre côté. C'est encore un travail en cours, mais la chaine YouTube [Le code convient aux filles](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A/feed) couvre de plus en plus de choses.
+Il est formidable de participer à un atelier DjangoFest, mais nous comprenons qu'il n'est pas toujours facile d'en trouver un. C'est pourquoi nous vous encourageons à essayer de suivre ce tutoriel chez vous. Pour les lectrices à la maison, nous sommes actuellement en train de préparer des vidéos afin qu'il vous soit plus facile de suivre le tutoriel de votre côté. C'est encore un travail en cours, mais la chaine YouTube [Le code convient aux filles](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A/feed) couvre de plus en plus de choses.
 
 Dans chaque chapitre couvert se trouve un lien pointant vers la vidéo correspondante.
 

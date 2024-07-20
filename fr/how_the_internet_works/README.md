@@ -28,7 +28,7 @@ Fascinant, non ? Cependant, il n'est pas possible de tirer un câble entre chaqu
 
 ![Figure 1.3](images/internet_2.png)
 
-C'est un peu comme si, quand vous tapiez https://djangogirls.org, vous envoyiez une lettre qui dit "Chères Django Girls, je voudrais voir le site djangogirls.org. Pouvez-vous me l'envoyer ?"
+C'est un peu comme si, quand vous tapiez https://djangogirls.org, vous envoyiez une lettre qui dit "Chères DjangoFest, je voudrais voir le site djangogirls.org. Pouvez-vous me l'envoyer ?"
 
 Votre lettre part vers le bureau de poste le plus proche. Ensuite, il file vers un autre, qui est plus proche de votre destinataire. Puis un autre, et encore un autre, jusqu'à sa destination. Une chose à retenir : si vous envoyez beaucoup de lettres (*data packets*) au même endroit, il se pourrait qu'elles transitent par des postes différentes (*routers*). Cela dépend de la manière dont elles sont distribuées à chaque bureau de poste.
 

@@ -70,7 +70,7 @@ db.sqlite3
 Зрештою, зберігаємо наші зміни. Перейдіть до консолі і виконайте наступні команди:
 
     $ git add --all .
-    $ git commit -m "My Django Girls app, first commit"
+    $ git commit -m "My DjangoFest app, first commit"
      [...]
      13 files changed, 200 insertions(+)
      create mode 100644 .gitignore

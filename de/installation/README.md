@@ -1,6 +1,6 @@
 # Wenn du dieses Tutorial zu Hause bearbeitest
 
-Wenn du das Tutorial zu Hause bearbeitest, und nicht auf einer der [Django Girls Veranstaltungen](https://djangogirls.org/events/), kannst du dieses Kapitel komplett überspringen und direkt mit dem Kapitel [Wie funktioniert das Internet?](../how_the_internet_works/README.md) fortfahren.
+Wenn du das Tutorial zu Hause bearbeitest, und nicht auf einer der [DjangoFest Veranstaltungen](https://djangogirls.org/events/), kannst du dieses Kapitel komplett überspringen und direkt mit dem Kapitel [Wie funktioniert das Internet?](../how_the_internet_works/README.md) fortfahren.
 
 Dem ist so, weil wir die Dinge jeweils installieren werden, wenn sie im Tutorial benötigt werden. Das hier ist nur eine zusätzliche Seite, die alle Installationsanleitungen an einem Ort bündelt (was für manche Veranstaltungsformate nützlich ist). Falls du willst, kannst du alles auf dieser Seite bereits jetzt installieren. Wenn du jedoch mit dem Lernen beginnen willst, bevor du eine Hand voll Sachen auf deinem Computer installierst, überspringe dieses Kapitel und lies unsere Erklärungen zur Installation später im Tutorial.
 
@@ -8,7 +8,7 @@ Viel Erfolg!
 
 # Wenn du an einem Workshop teilnimmst
 
-Wenn du an einer [Django Girls Veranstaltung](https://djangogirls.org/events/) teilnimmst:
+Wenn du an einer [DjangoFest Veranstaltung](https://djangogirls.org/events/) teilnimmst:
 
 * Vielleicht hat deine Veranstaltung eine "Installationsparty" vor dem eigentlichen Workshoptag. Wenn du gerade auf einer Installationsparty bist, ist das deine Seite! Folge den Anweisungen hier, um alles Notwendige für den Workshop zu installieren. Frage deinen Coach, wenn du Hilfe brauchst. Am Workshoptag kannst du dann die Installationsanweisungen überspringen, auf die du im Tutorial stößt.
 * Vielleicht haben die Organisatoren des Workshops dich gebeten, zu versuchen, schon zu Hause möglichst alles Benötigte auf deinem Computer zu installieren. Wenn du dazu aufgefordert wurdest, dann bist du hier auf der richtigen Seite! Folge den Anweisungen hier so gut, wie du kannst. Wenn du am Workshoptag dann im Tutorial auf einen Installationsschritt triffst, der dir zu Hause nicht gelungen ist, frage deinen Coach um Hilfe.

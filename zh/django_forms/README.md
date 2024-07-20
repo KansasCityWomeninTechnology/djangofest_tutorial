@@ -60,7 +60,7 @@ class PostForm(forms.ModelForm):
     {% load staticfiles %}
     <html>
         <head>
-            <title>Django Girls blog</title>
+            <title>DjangoFest blog</title>
             <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
             <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
             <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -69,7 +69,7 @@ class PostForm(forms.ModelForm):
         <body>
             <div class="page-header">
                 <a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
-                <h1><a href="/">Django Girls Blog</a></h1>
+                <h1><a href="/">DjangoFest Blog</a></h1>
             </div>
             <div class="content container">
                 <div class="row">
@@ -252,7 +252,7 @@ def post_new(request):
 
 让我们看看它是否正常工作。 转到页 http://127.0.0.1:8000//post/new/ ，添加 `title` 和 `text`，将它保存... 看！ 新博客文章已经加进来了，我们被重定向到`post_detail`页面！
 
-你可能已经注意到在保存博客文章之前我们设置发布日期。稍后，我们讲介绍一个在 **Django Girls 教程：扩展**中介绍 *publish button* 。.
+你可能已经注意到在保存博客文章之前我们设置发布日期。稍后，我们讲介绍一个在 **DjangoFest 教程：扩展**中介绍 *publish button* 。.
 
 太棒了！
 

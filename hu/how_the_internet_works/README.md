@@ -32,7 +32,7 @@ Lenyűgöző, igaz? Persze az képtelenség, hogy minden gép össze legyen köt
 
  [3]: images/internet_2.png
 
-Képzeld el úgy, hogy amikor beírod a https://djangogirls.org címet, egy levelet írsz: "Kedves Django Girls, szeretném megnézni a djangogirls.org oldalt. Kérlek, küldd el nekem!"
+Képzeld el úgy, hogy amikor beírod a https://djangogirls.org címet, egy levelet írsz: "Kedves DjangoFest, szeretném megnézni a djangogirls.org oldalt. Kérlek, küldd el nekem!"
 
 Először a leveled a hozzád legközelebbi postára megy. Ezután továbbhalad egy olyan postára, ami már kicsit közelebb van a címzettedhez, és így tovább, míg el nem jut a céljához. Az egyetlen egyedi dolog, hogy ha több levelet (*adatcsomagot*) küldesz ugyanarra a helyre, azok valószínűleg teljesen már postákon (*routers*) mennek keresztül. Ez csak attól függ hogyan osztják el az egyes irodákban.
 

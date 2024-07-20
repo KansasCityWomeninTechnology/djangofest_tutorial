@@ -76,7 +76,7 @@ Jó ötlet a `git status` parancs használata még a `git add` előtt, valamint 
 Végül mentsük le a változtatásokat. A konzolban futtasd le a következő parancsokat:
 
     $ git add --all .
-    $ git commit -m "My Django Girls app, first commit"
+    $ git commit -m "My DjangoFest app, first commit"
      [...]
      13 files changed, 200 insertions(+)
      create mode 100644 .gitignore
@@ -124,7 +124,7 @@ Add meg a GitHub felhasználónevedet és jelszódat, valami hasonlót kell hogy
 
 <!--TODO: maybe do ssh keys installs in install party, and point ppl who dont have it to an extention -->
 
-A forráskódod most már fent van a GitHubon. Menj és nézd meg! Láthatod hogy jó társasága van - [Django][5], a [Django Girls Tutorial][6], és sok más szuper nyílt forráskódú szoftver forráskódja szintén a GitHubon található :)
+A forráskódod most már fent van a GitHubon. Menj és nézd meg! Láthatod hogy jó társasága van - [Django][5], a [DjangoFest Tutorial][6], és sok más szuper nyílt forráskódú szoftver forráskódja szintén a GitHubon található :)
 
  [5]: https://github.com/django/django
  [6]: https://github.com/DjangoGirls/tutorial

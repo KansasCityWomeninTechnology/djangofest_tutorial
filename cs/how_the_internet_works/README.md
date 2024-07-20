@@ -32,7 +32,7 @@ Vypadá to takhle:
 
  [3]: images/internet_2.png
 
-Představ si, že když napíšeš https://djangogirls.org, pošleš dopis, ve kterém stojí "Drahé Django Girls, chci si prohlédnout stránku djangogirls.org. Pošlete mi ji, prosím!"
+Představ si, že když napíšeš https://djangogirls.org, pošleš dopis, ve kterém stojí "Drahé DjangoFest, chci si prohlédnout stránku djangogirls.org. Pošlete mi ji, prosím!"
 
 Tvůj dopis se pošle na tvou nejbližší poštu. Potom se pošle na jinou poštu, která je trochu blíže tvému adresátovi, potom na další a další, až se doručí do cílové destinace. Jediná unikátní věc je, že když pošleš hodně dopisů (*data paketů*) na stejné místo, můžou se tam dostat přes naprosto jiné pošty (*routery*). To závisí na tom, jak jsou na každé poště distribuovány.
 

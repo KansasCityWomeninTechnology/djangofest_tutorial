@@ -8,11 +8,11 @@
 
 Після цього переконайтеся, що ви:
 
-- Підписалися на Django Girls у [Facebook](http://facebook.com/djangogirls) або в [Twitter](https://twitter.com/djangogirls), щоб бути в курсі усіх подій
+- Підписалися на DjangoFest у [Facebook](http://facebook.com/djangogirls) або в [Twitter](https://twitter.com/djangogirls), щоб бути в курсі усіх подій
 
 ### Чи можете ви порекомендувати інші джерела?
 
-Так! Спершу, спробуйте нашу іншу книгу [Django Girls Tutorial: Extensions](https://tutorial-extensions.djangogirls.org).
+Так! Спершу, спробуйте нашу іншу книгу [DjangoFest Tutorial: Extensions](https://tutorial-extensions.djangogirls.org).
 
 Пізніше, ви можете спробувати джерела, перелічені нижче. Дуже рекомендуємо!
 - [Django's official tutorial](https://docs.djangoproject.com/en/1.8/intro/tutorial01/)

@@ -111,11 +111,11 @@ HTML代表“HyperText Markup Language（超文本标记语言）”。 **超文
 
     <html>
         <head>
-            <title>Django Girls blog</title>
+            <title>DjangoFest blog</title>
         </head>
         <body>
             <div>
-                <h1><a href="">Django Girls Blog</a></h1>
+                <h1><a href="">DjangoFest Blog</a></h1>
             </div>
     
             <div>

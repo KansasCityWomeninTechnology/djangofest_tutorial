@@ -8,14 +8,14 @@
 
 之后，请确保：
 
-*   在[Facebook][1]或者 [推特][2] 来关注 Django Girls 以了解最新情况
+*   在[Facebook][1]或者 [推特][2] 来关注 DjangoFest 以了解最新情况
 
  [1]: http://facebook.com/djangogirls
  [2]: https://twitter.com/djangogirls
 
 ### 你能推荐更进一步的资源吗？
 
-是啊！首先，继续尝试其他书籍，称作[Django Girls教程：扩展][3].
+是啊！首先，继续尝试其他书籍，称作[DjangoFest教程：扩展][3].
 
  [3]: https://tutorial-extensions.djangogirls.org
 

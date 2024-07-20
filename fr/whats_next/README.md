@@ -6,15 +6,15 @@ Un immense bravo à vous ! **Vous êtes très déterminée**. Nous sommes fière
 
 Faites une pause et détendez-vous ! Vous venez d'accomplir quelque chose de conséquent.
 
-Ensuite, suivez Django Girls sur [Facebook](http://facebook.com/djangogirls) ou [Twitter](https://twitter.com/djangogirls) pour être au courant des nouvelles.
+Ensuite, suivez DjangoFest sur [Facebook](http://facebook.com/djangogirls) ou [Twitter](https://twitter.com/djangogirls) pour être au courant des nouvelles.
 
 ### À la recherche de ressources supplémentaires ?
 
-Oui ! Il y a *énormément* de ressources en ligne pour apprendre toutes sortes de compétences de programmation. Il peut être assez difficile de s'orienter et aller plus loin, mais nous vous donnons des pistes pour démarrer. Quelle que soit la raison qui vous a menée à participer à Django Girls, et quels que soient les intérêts que vous avez développés en suivant le tutoriel, voici quelques ressources gratuites (ou des ressources avec de grands composants gratuits) que vous pouvez utiliser pour atteindre vos objectifs.
+Oui ! Il y a *énormément* de ressources en ligne pour apprendre toutes sortes de compétences de programmation. Il peut être assez difficile de s'orienter et aller plus loin, mais nous vous donnons des pistes pour démarrer. Quelle que soit la raison qui vous a menée à participer à DjangoFest, et quels que soient les intérêts que vous avez développés en suivant le tutoriel, voici quelques ressources gratuites (ou des ressources avec de grands composants gratuits) que vous pouvez utiliser pour atteindre vos objectifs.
 
 #### Django
 
-- Notre autre livre, [Django Girls Tutorial: Extensions](https://tutorial-extensions.djangogirls.org/)
+- Notre autre livre, [DjangoFest Tutorial: Extensions](https://tutorial-extensions.djangogirls.org/)
 - [Tutoriel officiel de Django](https://docs.djangoproject.com/en/2.2/intro/tutorial01/)
 - [Vidéos Getting Started With Django](http://www.gettingstartedwithdjango.com/)
 - [La spécialisation Python de Coursera](https://www.coursera.org/specializations/django) – vous pouvez accéder gratuitement à certains cours et vous pouvez obtenir un certificat Coursera à la fin

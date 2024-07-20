@@ -56,7 +56,7 @@ Po přidání řádku by měl tvůj html soubor vypadat takto:
 {% load staticfiles %}
 <html>
       <head>
-         <title>Django Girls blog</title>
+         <title>DjangoFest blog</title>
          <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
          <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
          <link href='//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -65,7 +65,7 @@ Po přidání řádku by měl tvůj html soubor vypadat takto:
       <body>
          <div class="page-header">
              <a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
-             <h1><a href="/">Django Girls Blog</a></h1>
+             <h1><a href="/">DjangoFest Blog</a></h1>
          </div>
          <div class="content container">
              <div class="row">
@@ -235,7 +235,7 @@ def post_new(request):
 
 Pojďme se podívat, jestli to funguje. Přejdi na stránku http://127.0.0.1:8000/post/new/, přidej `title` a `text`, ulož jej... a hle! Byl přidán nový příspěvek na blog a my jsme přesměrovány na stránku `post_detail`!
 
-Možná jsi si všimla, že jsme nastavili proměnnou publish_date před uložením postu. Později si ukážeme *tlačítko Publikovat* v **Django girls tutorial: rozšíření**.
+Možná jsi si všimla, že jsme nastavili proměnnou publish_date před uložením postu. Později si ukážeme *tlačítko Publikovat* v **DjangoFest tutorial: rozšíření**.
 
 ## Ověření formuláře
 

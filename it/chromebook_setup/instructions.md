@@ -151,7 +151,7 @@ Crea un account [GitHub](https://github.com).
 
 ### PythonAnywhere
 
-Il tutorial di Django Girls include una sezione su ciò che viene definito Deployment, ovvero il processo durante il quale si estrae il codice che alimenta la tua nuova applicazione web e lo si sposta su un computer accessibile al pubblico (chiamato server), in modo che altre persone possano vedere il tuo lavoro.
+Il tutorial di DjangoFest include una sezione su ciò che viene definito Deployment, ovvero il processo durante il quale si estrae il codice che alimenta la tua nuova applicazione web e lo si sposta su un computer accessibile al pubblico (chiamato server), in modo che altre persone possano vedere il tuo lavoro.
 
 Questa parte del tutorial è un po' insolita se lo si segue su un Chromebook, siccome stiamo usando un computer che è già su internet (al contrario di un laptop, per esempio). È comunque utile, se consideriamo il nostro Cloud 9 come uno spazio per il nostro lavoro "in corso" e Python Anywhere come uno spazio per mostrare il nostro materiale quando è più completo.
 

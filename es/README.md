@@ -1,4 +1,4 @@
-# Tutorial de Django Girls
+# Tutorial de DjangoFest
 
 [![Gitter](https://badges.gitter.im/DjangoGirls/tutorial.svg)](https://gitter.im/DjangoGirls/tutorial)
 
@@ -6,7 +6,7 @@
 
 ## Bienvenida/o
 
-¡Bienvenido/a al tutorial de las Django Girls! ¡Nos alegra que estés aquí :) En este tutorial, te llevaremos de viaje a las entrañas de la tecnología web, para que veas todas las piezas que se necesitan para que la web funcione.
+¡Bienvenido/a al tutorial de las DjangoFest! ¡Nos alegra que estés aquí :) En este tutorial, te llevaremos de viaje a las entrañas de la tecnología web, para que veas todas las piezas que se necesitan para que la web funcione.
 
 Como pasa con todas las cosas nuevas, va a ser una aventura - pero no te preocupes; una vez que te has decidido a empezar, te irá de maravilla :)
 
@@ -34,7 +34,7 @@ Bien, [empecemos por el comienzo...](./how_the_internet_works/README.md)
 
 ## Seguir el tutorial desde casa
 
-Participar en un taller de Django Girls en vivo es genial, pero somos conscientes de que no siempre es posible hacerlo. Por eso, te recomendamos hacer este tutorial en casa. Para las que estáis en casa, estamos preparando vídeos que facilitarán seguir el tutorial por tu cuenta. Todavía está en progreso, pero cada vez hay más cosas explicadas en el canal de YouTube [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A/feed) (Nota: en inglés).
+Participar en un taller de DjangoFest en vivo es genial, pero somos conscientes de que no siempre es posible hacerlo. Por eso, te recomendamos hacer este tutorial en casa. Para las que estáis en casa, estamos preparando vídeos que facilitarán seguir el tutorial por tu cuenta. Todavía está en progreso, pero cada vez hay más cosas explicadas en el canal de YouTube [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A/feed) (Nota: en inglés).
 
 En cada capítulo hay un enlace que lleva al vídeo correspondiente (si lo hay).
 

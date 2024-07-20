@@ -77,7 +77,7 @@
 {% filename %}command-line{% endfilename %}
 
     $ git add --all .
-    $ git commit -m "My Django Girls app, first commit"
+    $ git commit -m "My DjangoFest app, first commit"
      [...]
      13 files changed, 200 insertions(+)
      create mode 100644 .gitignore
@@ -124,7 +124,7 @@
 
 <!--TODO: maybe do ssh keys installs in install party, and point ppl who dont have it to an extension -->
 
-Ο κώδικας σας είναι πλέον στο GitHub. Πηγαίνετε να τον δείτε! Θα διαπιστώσετε ότι και άλλο δημοφιλή ανοιχτού λογισμικού projects φιλοξενούνται στο GitHub, όπως το ίδιο το [Django](https://github.com/django/django), το [Django Girls Tutorial](https://github.com/DjangoGirls/tutorial) και άλλα πολλά. :)
+Ο κώδικας σας είναι πλέον στο GitHub. Πηγαίνετε να τον δείτε! Θα διαπιστώσετε ότι και άλλο δημοφιλή ανοιχτού λογισμικού projects φιλοξενούνται στο GitHub, όπως το ίδιο το [Django](https://github.com/django/django), το [DjangoFest Tutorial](https://github.com/DjangoGirls/tutorial) και άλλα πολλά. :)
 
 # Ανεβάζοντας το blog μας στο PythonAnywhere
 

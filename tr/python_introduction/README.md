@@ -615,7 +615,7 @@ Biraz önce [kod editörü](../code_editor/README.md) bölümünden bir kod edit
 {% filename %}editör{% endfilename %}
 
 ```python
-print('Merhaba, Django girls!')
+print('Merhaba, DjangoFest!')
 ```
 
 Açıkça, artık oldukça deneyimli Python programcısısın, bu yüzden bugün öğrendiğin kodları yazmaktan çekinme.
@@ -679,7 +679,7 @@ Takılırsanız, yardım isteyin. Eğitmenler bunun için var!
 {% filename %}komut-satırı{% endfilename %}
 
     $ python3 python_intro.py
-    Merhaba, Django girls!
+    Merhaba, DjangoFest!
     
 
 Not: Windows'ta 'python3' bir komut olarak geçmez. Onun yerine, dosyayı çalıştırmak için 'python'ı kullanın:

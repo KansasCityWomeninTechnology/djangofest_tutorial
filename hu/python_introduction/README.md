@@ -468,7 +468,7 @@ Egy előző részben már kiválasztottuk a kedvenc [kódszerkesztő][2]nket. Mo
  [2]: ../code_editor/README.md
 
 ```python
-    print('Hello, Django girls!')
+    print('Hello, DjangoFest!')
 ```
 
 Mostanra már tapasztalt Python programozó lettél, úgyhogy írj valami kódot, amit ma tanultál.
@@ -521,7 +521,7 @@ Most pedig futtasd le a Python kódot, így:
 {% filename %}parancssor{% endfilename %}
 ```
 $ python3 python_intro.py
-Hello, Django girls!
+Hello, DjangoFest!
 ```
     
 Note: Windows-on 'python3' néven nem található parancs. Helyette használd a 'python' néven:

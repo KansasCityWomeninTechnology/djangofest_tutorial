@@ -6,15 +6,15 @@ Herzlichen Glückwunsch! **Du bist der Hammer!** Wir sind echt stolz! <3
 
 Mach eine Pause und entspanne! Du hast gerade etwas wirklich Großes geleistet.
 
-Und dann folge Django Girls doch auf [Facebook](http://facebook.com/djangogirls) oder [Twitter](https://twitter.com/djangogirls), um auf dem Laufenden zu bleiben.
+Und dann folge DjangoFest doch auf [Facebook](http://facebook.com/djangogirls) oder [Twitter](https://twitter.com/djangogirls), um auf dem Laufenden zu bleiben.
 
 ### Könnt ihr weiteres Lernmaterial empfehlen?
 
-Ja! Es gibt *sehr* viele Online-Ressourcen zum Erlernen aller möglichen Programmierfähigkeiten – es kann ziemlich entmutigend sein, herauszufinden, was man als Nächstes machen sollte, aber wir helfen dir dabei. Was auch immer du für Interessen hattest, bevor du zu Django Girls gekommen bist und was auch immer du für Interessen während des Tutorials entwickelt hast, hier sind einige kostenfreie Ressourcen (oder solche mit größeren kostenlosen Teilen), die du nutzen kannst, um auf deinem Weg voranzukommen.
+Ja! Es gibt *sehr* viele Online-Ressourcen zum Erlernen aller möglichen Programmierfähigkeiten – es kann ziemlich entmutigend sein, herauszufinden, was man als Nächstes machen sollte, aber wir helfen dir dabei. Was auch immer du für Interessen hattest, bevor du zu DjangoFest gekommen bist und was auch immer du für Interessen während des Tutorials entwickelt hast, hier sind einige kostenfreie Ressourcen (oder solche mit größeren kostenlosen Teilen), die du nutzen kannst, um auf deinem Weg voranzukommen.
 
 #### Django
 
-- Unser anderes Buch, [Django Girls Tutorial: Erweiterungen](https://tutorial-extensions.djangogirls.org/)
+- Unser anderes Buch, [DjangoFest Tutorial: Erweiterungen](https://tutorial-extensions.djangogirls.org/)
 - [Das offizielle Django-Tutorial](https://docs.djangoproject.com/en/2.2/intro/tutorial01/)
 - [Video-Lektionen "Getting Started With Django"](http://www.gettingstartedwithdjango.com/)
 - Spezialisierung [Django for Everybody](https://www.coursera.org/specializations/django) – einige Video-Lektionen können kostenlos getestet werden und du kannst ein Coursera-Zertifikat erlangen, wenn du diesen Kurs belegst

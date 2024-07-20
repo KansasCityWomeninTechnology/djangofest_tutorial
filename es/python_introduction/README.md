@@ -615,7 +615,7 @@ Anteriormente, seleccionamos un editor de código de la sección </a>editor de c
 {% filename %}editor{% endfilename %}
 
 ```python
-print('Hello, Django girls!')
+print('Hello, DjangoFest!')
 ```
 
 Obviamente, ahora eres una desarrolladora Python muy experimentada, asi que sintete libre de escribir algo del código que has aprendido hoy.
@@ -681,7 +681,7 @@ Ahora usa Python para ejecutar el código en el archivo como esto:
 {% filename %}command-line{% endfilename %}
 
     $ python3 python_intro.py
-    Hello, Django girls!
+    Hello, DjangoFest!
     
 
 Nota: en Windows 'python3' no es reconocido como un comando. En su lugar, usa 'python' para ejecutar el archivo:

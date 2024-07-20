@@ -78,7 +78,7 @@ Git はこのディレクトリ内のすべてのファイルとフォルダの�
 {% filename %}command-line{% endfilename %}
 
     $ git add --all .
-    $ git commit -m "My Django Girls app, first commit"
+    $ git commit -m "My DjangoFest app, first commit"
      [...]
      13 files changed, 200 insertions(+)
      create mode 100644 .gitignore
@@ -125,7 +125,7 @@ GitHubにプッシュするとき、GitHubのユーザー名とパスワード�
 
 <!--TODO: maybe do ssh keys installs in install party, and point ppl who dont have it to an extension -->
 
-あなたのコードは今GitHub上にあります。 見に行きましょう！ [ Django ](https://github.com/django/django)や[ Django Girls Tutorial ](https://github.com/DjangoGirls/tutorial)、その他たくさんの素晴らしいオープンソースソフトウェアプロジェクトもGitHubでコードをホストしています。 :)
+あなたのコードは今GitHub上にあります。 見に行きましょう！ [ Django ](https://github.com/django/django)や[ DjangoFest Tutorial ](https://github.com/DjangoGirls/tutorial)、その他たくさんの素晴らしいオープンソースソフトウェアプロジェクトもGitHubでコードをホストしています。 :)
 
 # PythonAnywhereでブログを設定する
 

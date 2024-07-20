@@ -102,7 +102,7 @@
 {% filename %}خط فرمان{% endfilename %}
 
     $ git add .
-    $ git commit -m "My Django Girls app, first commit"
+    $ git commit -m "My DjangoFest app, first commit"
      [...]
      13 files changed, 200 insertions(+)
      create mode 100644 .gitignore
@@ -149,7 +149,7 @@
 
 <!--TODO: maybe do ssh keys installs in install party, and point ppl who dont have it to an extension -->
 
-کد شما الان روی GitHub است. بروید و آن را کنترل کنید! خواهید دید که کدهای شما در جای خوبی است. پروژه [Django](https://github.com/django/django)، دوره آموزشی [Django Girls](https://github.com/DjangoGirls/tutorial) و بسیاری نرم‌افزارهای متن باز فوق العاده دیگر هم، کدهایشان را در GitHub قرار داده‌اند. :)
+کد شما الان روی GitHub است. بروید و آن را کنترل کنید! خواهید دید که کدهای شما در جای خوبی است. پروژه [Django](https://github.com/django/django)، دوره آموزشی [DjangoFest](https://github.com/DjangoGirls/tutorial) و بسیاری نرم‌افزارهای متن باز فوق العاده دیگر هم، کدهایشان را در GitHub قرار داده‌اند. :)
 
 # تنظیم کردن وبلاگ بر روی PythonAnywhere
 

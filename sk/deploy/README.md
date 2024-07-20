@@ -121,7 +121,7 @@ A nakoniec uložíme naše zmeny. Prejdi na konzolu a zadaj nasledujúce príkaz
 {% filename %}command-line{% endfilename %}
 
     $ git add .
-    $ git commit -m "My Django Girls app, first commit"
+    $ git commit -m "My DjangoFest app, first commit"
      [...]
      13 files changed, 200 insertions(+)
      create mode 100644 .gitignore
@@ -168,7 +168,7 @@ Keď pošleš niečo na GitHub, spýta sa ťa to na tvoje githubové meno a hesl
 
 <!--TODO: maybe do ssh keys installs in install party, and point ppl who dont have it to an extension -->
 
-Tvoj kód je na GitHube. Choď sa naň pozrieť! Zistíš, že sa nachádza vo vyberanej spoločnosti - [Django](https://github.com/django/django), [Django Girls Tutorial](https://github.com/DjangoGirls/tutorial) a mnoho iných skvelých open sourcových softvérových projektov uchováva svoj kód na GitHube. :)
+Tvoj kód je na GitHube. Choď sa naň pozrieť! Zistíš, že sa nachádza vo vyberanej spoločnosti - [Django](https://github.com/django/django), [DjangoFest Tutorial](https://github.com/DjangoGirls/tutorial) a mnoho iných skvelých open sourcových softvérových projektov uchováva svoj kód na GitHube. :)
 
 {% include "/deploy/pythonanywhere.md" %}
 

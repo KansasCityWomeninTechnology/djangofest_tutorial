@@ -615,7 +615,7 @@ $
 {% filename %}editor{% endfilename %}
 
 ```python
-print('Hello, Django girls!')
+print('Hello, DjangoFest!')
 ```
 
 Очевидно, вече сте по-обиграни Python разработчици, така че напишете код, който научихте днес.
@@ -681,7 +681,7 @@ data-collapse=true ces-->
 {% filename %}command-line{% endfilename %}
 
     $ python3 python_intro.py
-    Hello, Django girls!
+    Hello, DjangoFest!
     
 
 Забележка: на Windows 'python3' не е разпознат като команда. Вместо това, използвайте 'python' за да стартирате файла:

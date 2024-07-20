@@ -28,7 +28,7 @@ Se parece a esto:
 
 ![Figura 1.3](images/internet_2.png)
 
-Imagina que cuando escribes http://djangogirls.org, estas enviando una carta que dice: "Estimadas Django Girls, me gustaría ver su sitio web djangogirls.org. ¡Por favor, envíenmelo!"
+Imagina que cuando escribes http://djangogirls.org, estas enviando una carta que dice: "Estimadas DjangoFest, me gustaría ver su sitio web djangogirls.org. ¡Por favor, envíenmelo!"
 
 Tu carta va hacia la oficina de correo más cercana. Luego va a otra que es un poco más cerca de su destinatario, luego otra y otra hasta que es entregada a su destino. La única cosa diferente es que si envías muchas cartas (*paquetes de datos*) al mismo lugar, cada una podría ir a través de oficinas de correos totalmente distintas (*routers*). Esto depende de cómo se distribuyen en cada oficina.
 

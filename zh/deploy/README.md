@@ -72,7 +72,7 @@ Git会追踪这个目录下所有文件和文件夹的更改，但是有一些�
 最后保存我们的更改。转到你的控制台并运行这些命令：
 
     $ git add --all .
-    $ git commit -m "My Django Girls app, first commit"
+    $ git commit -m "My DjangoFest app, first commit"
     [...]
     13 files changed, 200 insertions(+)
     create mode 100644 .gitignore
@@ -120,7 +120,7 @@ Git会追踪这个目录下所有文件和文件夹的更改，但是有一些�
 
 <!--TODO: maybe do ssh keys installs in install party, and point ppl who dont have it to an extention -->
 
-你的代码已经在GitHub上了。 快去确认一下吧！ 你会发现这些好家伙们 — [Django][5], [Django Girls Tutorial][6]，还有很多其它优秀的开放源代码软件项目同样也在GitHub上 :)
+你的代码已经在GitHub上了。 快去确认一下吧！ 你会发现这些好家伙们 — [Django][5], [DjangoFest Tutorial][6]，还有很多其它优秀的开放源代码软件项目同样也在GitHub上 :)
 
  [5]: https://github.com/django/django
  [6]: https://github.com/DjangoGirls/tutorial
