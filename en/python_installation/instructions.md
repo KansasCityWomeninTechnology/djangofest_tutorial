@@ -48,6 +48,11 @@ It is very likely that you already have Python installed out of the box. To chec
 {% filename %}command-line{% endfilename %}
 ```
 $ python3 --version
+```
+
+
+{% filename %}What you'll see{% endfilename %}
+```
 Python {{ book.py_release }}
 ```
 
@@ -104,6 +109,10 @@ Verify the installation was successful by opening a command prompt and running t
 {% filename %}command-line{% endfilename %}
 ```
 $ python3 --version
+```
+
+{% filename %}What you'll see{% endfilename %}
+```
 Python {{ book.py_release }}
 ```
 The version shown may be different from {{ book.py_release }} -- it should match the version you installed.
