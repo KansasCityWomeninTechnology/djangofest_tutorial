@@ -62,3 +62,33 @@
         font-size: 16pt;
     }
 }
+
+/* Style for OS buttons */
+button.osToggle {
+    /* Space inside the box */
+    padding: 5px 10px;
+    /* Reduced space between link boxes */
+    margin: 2px 2px 0px;
+    display: inline-block; /* Allow padding and margin */
+    border: 1px solid #ddd; /* Individual link box */
+    text-decoration: none; /* Remove underline from links */
+    color: black; /* Text color */
+    background-color: #f0f0f0; /* Background color */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Drop shadow */
+}
+
+/* Style for the active OS button */
+button.osToggle.active {
+    border-color: #FF9900; /* Highlight color for active button */
+    background-color: #FF9900; /* Background color for active button */
+    color: white; /* Text color for active button */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Stronger drop shadow */
+}
+
+/* Style for divs with data-os-content attribute */
+div[data-os-content] {
+    background-color: #f9f9f9; /* Light grey background */
+    padding: 15px; /* Space inside the div */
+    border: 1px solid #ddd; /* Border around the div */
+    border-radius: 5px; /* Rounded corners */
+}

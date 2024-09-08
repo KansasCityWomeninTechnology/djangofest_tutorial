@@ -4,6 +4,20 @@
 > This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 > To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
 
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
+
+{% osContent "Windows" %}
+Windows stuff
+{% endosContent %}
+{% osContent "Mac" %}
+Mac stuff
+{% endosContent %}
+{% osContent "Linux" %}
+Linux stuff
+{% endosContent %}
+
 ## Welcome
 Welcome to the Django Girls Tutorial! We are happy to see you here. :) In this tutorial, we will take you on a journey under the hood of web technologies, offering you a glimpse of all the bits and pieces that need to come together to make the web work as we know it.
 
