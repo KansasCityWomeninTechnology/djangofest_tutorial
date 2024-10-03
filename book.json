@@ -25,7 +25,8 @@
         "sidebar-ads",
         "codeblock-label",
         "sectionx-ex",
-        "collapsible-menu"
+        "collapsible-menu",
+        "browser-detected-tabs"
     ],
     "pluginsConfig": {
         "ga": {

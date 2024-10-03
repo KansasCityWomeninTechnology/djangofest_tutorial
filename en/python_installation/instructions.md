@@ -6,7 +6,7 @@ Django is written in Python. We need Python to do anything in Django. Let's star
 
 Please install normal Python as follows, even when you have Anaconda installed on your computer.
 
-<!--sec data-title="Install Python: Windows" data-id="python_windows" data-collapse=true ces-->
+{% osContent "Windows" %}
 
 First check whether your computer is running a 32-bit version or a 64-bit version of Windows, on the "System type" line of the System Info page. To reach this page, try one of these methods:
 * Press the Windows key and Pause/Break key at the same time
@@ -26,10 +26,8 @@ Note: If you are using an older version of Windows (7, Vista, or any older versi
 
 > Django {{ book.django_version }} needs Python {{ book.py_min_version }} or greater, which does not support Windows XP or earlier versions.
 
-<!--endsec-->
-
-<!--sec data-title="Install Python: OS X" data-id="python_OSX"
-data-collapse=true ces-->
+{% endosContent %}
+{% osContent "Mac" %}
 
 > **Note** Before you install Python on OS X, you should ensure your Mac settings allow installing packages that aren't from the App Store. Go to System Preferences (it's in the Applications folder), click "Security & Privacy," and then the "General" tab. If your "Allow apps downloaded from:" is set to "Mac App Store," change it to "Mac App Store and identified developers."
 
@@ -38,11 +36,8 @@ You need to go to the website https://www.python.org/downloads/mac-osx/ and down
 * Download the *Mac OS X 64-bit/32-bit installer* file,
 * Double click *python-{{ book.py_release }}-macosx10.9.pkg* to run the installer.
 
-<!--endsec-->
-
-<!--sec data-title="Install Python: Linux" data-id="python_linux"
-data-collapse=true ces-->
-
+{% endosContent %}
+{% osContent "Linux" %}
 It is very likely that you already have Python installed out of the box. To check if you have it installed (and which version it is), open a console and type the following command:
 
 {% filename %}command-line{% endfilename %}
@@ -65,7 +60,7 @@ $ grep '^NAME=' /etc/os-release
 
 Afterwards, depending on the result, follow one of the following installation guides below this section.
 
-<!--endsec-->
+{% endosContent %}
 
 <!--sec data-title="Install Python: Debian or Ubuntu" data-id="python_debian" data-collapse=true ces-->
 
