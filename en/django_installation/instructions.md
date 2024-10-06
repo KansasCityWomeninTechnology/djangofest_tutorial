@@ -124,35 +124,35 @@ then instead run:
 
 The command above will create a directory called `myvenv` (or whatever name you chose) that contains our virtual environment (basically a bunch of directories and files).
 
-<!--sec data-title="Working with virtualenv: Windows" data-id="virtualenv_windows"
-data-collapse=true ces-->
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
+
+{% osContent "Windows" %}
 
 Start your virtual environment by running:
 
-{% filename %}command-line{% endfilename %}
 ```
 C:\Users\Name\djangofest> myvenv\Scripts\activate
 ```
 
-> __NOTE:__ On Windows 10 you might get an error in the Windows PowerShell that says `execution of scripts is disabled on this system`. In this case, please ask a mentor to help you resolve the issue.
+__NOTE:__ On Windows 10 you might get an error in the Windows PowerShell that says `execution of scripts is disabled on this system`. In this case, please ask a mentor to help you resolve the issue.
 
 <!-- (This comment separates the two blockquote blocks, so that GitBook and Crowdin don't merge them into a single block.) -->
 
-> __NOTE:__ For users of the popular editor VS Code, which comes with an integrated terminal based off windows PowerShell, if you wish to stick with the integrated terminal, you may run the following command to activate your virtual environment:
+__NOTE:__ For users of the popular editor VS Code, which comes with an integrated terminal based off windows PowerShell, if you wish to stick with the integrated terminal, you may run the following command to activate your virtual environment:
 >
 >```
 >$ . myvenv\Scripts\activate.ps1
 >```
 >The advantage is that you don't have to switch between editor windows and command-line windows
 
-<!--endsec-->
+{% endosContent %}
 
-<!--sec data-title="Working with virtualenv: Linux and OS X" data-id="virtualenv_linuxosx"
-data-collapse=true ces-->
+{% osContent "Mac" %}
 
 Start your virtual environment by running:
 
-{% filename %}command-line{% endfilename %}
 ```
 $ source myvenv/bin/activate
 ```
@@ -160,13 +160,28 @@ $ source myvenv/bin/activate
 Remember to replace `myvenv` with your chosen `virtualenv` name!
 
 __NOTE:__ If the command `source` is not available, try doing this instead:
->
->{% filename %}command-line{% endfilename %}
 >```
 >$ . myvenv/bin/activate
 >```
 
-<!--endsec-->
+{% endosContent %}
+
+{% osContent "Linux" %}
+
+Start your virtual environment by running:
+
+```
+$ source myvenv/bin/activate
+```
+
+Remember to replace `myvenv` with your chosen `virtualenv` name!
+
+__NOTE:__ If the command `source` is not available, try doing this instead:
+>```
+>$ . myvenv/bin/activate
+>```
+
+{% endosContent %}
 
 You will know that you have `virtualenv` started when you see that the prompt in your console is prefixed with `(myvenv)`.
 
