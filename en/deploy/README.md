@@ -151,13 +151,15 @@ To https://github.com/ola/my-first-blog.git
 Branch main set up to track remote branch main from origin.
 ```
 
-> **Note** You might encounter the following error when trying to push to GitHub:
+> **Note** If you encounter the following error when trying to push to GitHub:
 ```
 remote: Support for password authentication was removed on August 13, 2021.
 remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
 fatal: Authentication failed for 'https://github.com/<your-github-username>/my-first-blog.git/'
 ```
-In this case, follow the instructions from GitHub to [create a personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic). The token should have the 'repo' scope. Copy the value of the token, then try the git push command again. When you are prompted to enter your username and password, enter the access token instead of your password. 
+It is asking for the token you set up when you established your GitHub account. The token should have the 'repo' scope. Copy the value of the token according to the [Github instructions](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens), then try the git push command again. When you are prompted to enter your username and password, enter the access token instead of your password.
+
+Still stuck? Ask a mentor for help!
 
 <!--TODO: maybe do ssh keys installs in install party, and point ppl who dont have it to an extension -->
 

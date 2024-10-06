@@ -50,6 +50,8 @@ Many of the steps below reference the "console", "terminal", "command window", o
 ## Create a GitHub account {#github-account}
 Go to [GitHub.com](https://www.github.com) and sign up for a new, free user account. Be sure to remember your password (add it to your password manager, if you use one).
 
+Later, you will need a personal access token, so we are going to set it up now. Follow the [instructions from GitHub](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) to create a personal access token. The token should have the 'repo' scope.  You will need this token when you get to the *Deploy* instructions later. 
+
 ## Create a PythonAnywhere account {#pythonanywhere-account}
 {% include "/deploy/signup_pythonanywhere.md" %}
 
