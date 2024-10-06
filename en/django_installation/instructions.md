@@ -14,14 +14,14 @@ So, let's create a **virtual environment** (also called a *virtualenv*). Virtual
 
 All you need to do is find a directory in which you want to create the `virtualenv`; your home directory, for example. On Windows, it might look like `C:\Users\Name\` (where `Name` is the name of your login).
 
-> __NOTE:__ On Windows, make sure that this directory does not contain accented or special characters; if your username contains accented characters, use a different directory, for example, `C:\djangogirls`.
+> __NOTE:__ On Windows, make sure that this directory does not contain accented or special characters; if your username contains accented characters, use a different directory, for example, `C:\djangofest`.
 
-For this tutorial we will be using a new directory `djangogirls` from your home directory:
+For this tutorial we will be using a new directory `djangofest` from your home directory:
 
 {% filename %}command-line{% endfilename %}
 ```
-$ mkdir djangogirls
-$ cd djangogirls
+$ mkdir djangofest
+$ cd djangofest
 ```
 
 We will make a virtualenv called `myvenv`. The general command will be in the format:
@@ -38,7 +38,7 @@ To create a new `virtualenv`, you need to open the command prompt and run `pytho
 
 {% filename %}command-line{% endfilename %}
 ```
-C:\Users\Name\djangogirls> python -m venv myvenv
+C:\Users\Name\djangofest> python -m venv myvenv
 ```
 
 Where `myvenv` is the name of your `virtualenv`. You can use any other name, but stick to lowercase and use no spaces, accents or special characters. It is also a good idea to keep the name short – you'll be referencing it a lot!
@@ -116,7 +116,7 @@ Start your virtual environment by running:
 
 {% filename %}command-line{% endfilename %}
 ```
-C:\Users\Name\djangogirls> myvenv\Scripts\activate
+C:\Users\Name\djangofest> myvenv\Scripts\activate
 ```
 
 > __NOTE:__ On Windows 10 you might get an error in the Windows PowerShell that says `execution of scripts is disabled on this system`. In this case, open another Windows PowerShell with the "Run as Administrator" option.  Then try typing the following command before starting your virtual environment:
@@ -182,18 +182,18 @@ Before we do that, we should make sure we have the latest version of `pip`, the 
 A requirements file keeps a list of dependencies to be installed using
 `pip install`:
 
-First create a `requirements.txt` file inside of the `djangogirls/` folder, using the code editor that you installed earlier. You do this by opening a new file in the code editor and then saving it as `requirements.txt` in the `djangogirls/` folder. Your directory will look like this:
+First create a `requirements.txt` file inside of the `djangofest/` folder, using the code editor that you installed earlier. You do this by opening a new file in the code editor and then saving it as `requirements.txt` in the `djangofest/` folder. Your directory will look like this:
 
 ```
-djangogirls
+djangofest
 ├── myvenv
 │   └── ...
 └───requirements.txt
 ```
 
-In your `djangogirls/requirements.txt` file you should add the following text:
+In your `djangofest/requirements.txt` file you should add the following text:
 
-{% filename %}djangogirls/requirements.txt{% endfilename %}
+{% filename %}djangofest/requirements.txt{% endfilename %}
 ```
 Django~={{ book.django_version }}
 ```
@@ -212,7 +212,7 @@ Successfully installed Django-{{ book.django_version }}
 <!--sec data-title="Installing Django: Windows" data-id="django_err_windows"
 data-collapse=true ces-->
 
-> If you get an error when calling pip on Windows, please check if your project pathname contains spaces, accents or special characters (for example, `C:\Users\User Name\djangogirls`). If it does, please consider using another place without spaces, accents or special characters (suggestion: `C:\djangogirls`). Create a new virtualenv in the new directory, then delete the old one and try the above command again. (Moving the virtualenv directory won't work since virtualenv uses absolute paths.)
+> If you get an error when calling pip on Windows, please check if your project pathname contains spaces, accents or special characters (for example, `C:\Users\User Name\djangofest`). If it does, please consider using another place without spaces, accents or special characters (suggestion: `C:\djangofest`). Create a new virtualenv in the new directory, then delete the old one and try the above command again. (Moving the virtualenv directory won't work since virtualenv uses absolute paths.)
 
 <!--endsec-->
 
@@ -223,7 +223,7 @@ data-collapse=true ces-->
 >
 >{% filename %}command-line{% endfilename %}
 >```
->C:\Users\Name\djangogirls> python -m pip install -r requirements.txt
+>C:\Users\Name\djangofest> python -m pip install -r requirements.txt
 >```
 
 <!--endsec-->

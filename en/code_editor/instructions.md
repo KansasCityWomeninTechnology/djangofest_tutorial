@@ -10,8 +10,11 @@ Visual Studio Code is a source code editor developed by Microsoft for Windows, L
 
 # Installing Visual Studio Code
 
-<!--sec data-title="VSCode Install for Windows" data-id="ide_windows"
-data-collapse=true ces-->
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
+
+{% osContent "Windows" %}
 
 1. **Download Visual Studio Code:**
    - Go to the official Visual Studio Code website referenced above.
@@ -27,10 +30,8 @@ data-collapse=true ces-->
 
 3. **Open VSCode from your start menu.**
 
-<!--endsec-->
-
-<!--sec data-title="VSCode Install for Mac" data-id="ide_mac"
-data-collapse=true ces-->
+{% endosContent %}
+{% osContent "Mac" %}
 
 1. **Download Visual Studio Code:**
    - Go to the official Visual Studio Code website referenced above.
@@ -43,10 +44,8 @@ data-collapse=true ces-->
 
 3. **Open VSCode from your applications folder.**
 
-<!--endsec-->
-
-<!--sec data-title="VSCode Install for Linux" data-id="ide_linx"
-data-collapse=true ces-->
+{% endosContent %}
+{% osContent "Linux" %}
 
 1. **Download Visual Studio Code:**
    - Go to the official Visual Studio Code website referenced above.
@@ -57,7 +56,7 @@ data-collapse=true ces-->
 
 3. **Open VSCode from your applications menu.**
 
-<!--endsec-->
+{% endosContent %}
 
 # Setting Up Visual Studio Code
 

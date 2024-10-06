@@ -103,7 +103,7 @@ If you try to visit http://127.0.0.1:8000/ now, then you'll find some sort of 'w
   File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
   File "<frozen importlib._bootstrap_external>", line 850, in exec_module
   File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
-  File "/Users/ola/djangogirls/blog/urls.py", line 5, in <module>
+  File "/Users/ola/djangofest/blog/urls.py", line 5, in <module>
     path('', views.post_list, name='post_list'),
 AttributeError: module 'blog.views' has no attribute 'post_list'
 ```

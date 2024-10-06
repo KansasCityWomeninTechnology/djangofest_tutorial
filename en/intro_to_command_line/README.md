@@ -59,6 +59,8 @@ In the tutorial, when we want you to type in a command, we will include the `$` 
 
 ## Your first command (YAY!)
 
+> Throughout this workshop, we encourage you to type commands manually into the command line interface (CLI) instead of using copy/paste. It takes longer but, we promise it'll "stick" with you more! :) 
+
 Let's start by typing this command:
 
 <!--sec data-title="Your first command: OS X and Linux" data-id="OSX_Linux_whoami" data-collapse=true ces-->

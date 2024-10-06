@@ -157,8 +157,8 @@ Run:
 
 {% filename %}Cloud 9{% endfilename %}
 ```
-mkdir djangogirls
-cd djangogirls
+mkdir djangofest
+cd djangofest
 python3 -m venv myvenv
 source myvenv/bin/activate
 pip install django~={{ book.django_version }}

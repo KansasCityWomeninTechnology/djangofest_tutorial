@@ -544,7 +544,7 @@ Congrats! Booleans are one of the coolest features in programming, and you just 
 So far we've been writing all our python code in the interpreter, which limits us to entering one line of code at a time. Normal programs are saved in files and executed by our programming language __interpreter__ or __compiler__. So far we've been running our programs one line at a time in the Python __interpreter__. We're going to need more than one line of code for the next few tasks, so we'll quickly need to:
 
 - Exit the Python interpreter
-- Open up our code editor of choice
+- Open up our code editor (IDE)
 - Save some code into a new python file
 - Run it!
 
@@ -558,7 +558,7 @@ $
 
 This will put you back into the command prompt.
 
-Earlier, we picked out a code editor from the [code editor](../code_editor/README.md) section. We'll need to open the editor now and write some code into a new file (or if you're using a Chromebook, create a new file in the cloud IDE and open the file, which will be in the included code editor):
+Earlier, we installed Visual Studio Code from the [code editor](../code_editor/README.md) section. We'll need to open your IDE now and write some code into a new file (or if you're using a Chromebook, create a new file in the cloud IDE and open the file, which will be in the included code editor):
 
 {% filename %}editor{% endfilename %}
 ```python
@@ -919,18 +919,18 @@ This is the last part already. That was quick, right? :)
 
 Programmers don't like to repeat themselves. Programming is all about automating things, so we don't want to greet every person by their name manually, right? That's where loops come in handy.
 
-Still remember lists? Let's do a list of girls:
+Still remember lists? Let's do a list of names:
 
 {% filename %}python_intro.py{% endfilename %}
 ```python
-girls = ['Rachel', 'Monica', 'Phoebe', 'Ola', 'You']
+names = ['Rachel', 'Tom', 'Phoebe', 'Stephen', 'You']
 ```
 
 We want to greet all of them by their name. We have the `hi` function to do that, so let's use it in a loop:
 
 {% filename %}python_intro.py{% endfilename %}
 ```python
-for name in girls:
+for name in names:
 ```
 
 The `for` statement behaves similarly to the `if` statement; code below both of these need to be indented four spaces.
@@ -942,10 +942,10 @@ Here is the full code that will be in the file:
 def hi(name):
     print('Hi ' + name + '!')
 
-girls = ['Rachel', 'Monica', 'Phoebe', 'Ola', 'You']
-for name in girls:
+names = ['Rachel', 'Tom', 'Phoebe', 'Stephen', 'You']
+for name in names:
     hi(name)
-    print('Next girl')
+    print('Next name')
 ```
 
 And when we run it:
@@ -954,18 +954,18 @@ And when we run it:
 ```
 $ python3 python_intro.py
 Hi Rachel!
-Next girl
-Hi Monica!
-Next girl
+Next name
+Hi Tom!
+Next name
 Hi Phoebe!
-Next girl
-Hi Ola!
-Next girl
+Next name
+Hi Stephen!
+Next name
 Hi You!
-Next girl
+Next name
 ```
 
-As you can see, everything you put inside a `for` statement with an indent will be repeated for every element of the list `girls`.
+As you can see, everything you put inside a `for` statement with an indent will be repeated for every element of the list `names`.
 
 You can also use `for` on numbers using the `range` function:
 

@@ -18,14 +18,14 @@ These three places will be important to you.  Your local computer will be the pl
 
 ## Starting our Git repository
 
-Git tracks changes to a particular set of files in what's called a code repository (or "repo" for short). Let's start one for our project. Open up your console and run these commands, in the `djangogirls` directory:
+Git tracks changes to a particular set of files in what's called a code repository (or "repo" for short). Let's start one for our project. Open up your console and run these commands, in the `djangofest` directory:
 
-> **Note** Check your current working directory with a `pwd` (Mac OS X/Linux) or `cd` (Windows) command before initializing the repository. You should be in the `djangogirls` folder.
+> **Note** Check your current working directory with a `pwd` (Mac OS X/Linux) or `cd` (Windows) command before initializing the repository. You should be in the `djangofest` folder.
 
 {% filename %}command-line{% endfilename %}
 ```
 $ git init
-Initialized empty Git repository in ~/djangogirls/.git/
+Initialized empty Git repository in ~/djangofest/.git/
 $ git config --global user.name "Your Name"
 $ git config --global user.email you@example.com
 ```
@@ -71,7 +71,7 @@ $RECYCLE.BIN/
 *.code-workspace
 ```
 
-And save it as `.gitignore` in the "djangogirls" folder.
+And save it as `.gitignore` in the "djangofest" folder.
 
 > **Note** The dot at the beginning of the file name is important!  If you're having any difficulty creating it (Macs don't like you to create files that begin with a dot via the Finder, for example), then use the "Save As" feature in your editor; it's bulletproof. And be sure not to add `.txt`, `.py`, or any other extension to the file name -- it will only be recognized by Git if the name is just `.gitignore`.
 Linux and MacOS treat files with a name that starts with `.` (such as `.gitignore`) as hidden
@@ -161,7 +161,7 @@ In this case, follow the instructions from GitHub to [create a personal access t
 
 <!--TODO: maybe do ssh keys installs in install party, and point ppl who dont have it to an extension -->
 
-Your code is now on GitHub. Go and check it out!  You'll find it's in fine company – [Django](https://github.com/django/django), the [DjangoFest Tutorial](https://github.com/DjangoGirls/tutorial), and many other great open source software projects also host their code on GitHub. :)
+Your code is now on GitHub. Go and check it out!  You'll find it's in fine company – [Django](https://github.com/django/django), the [DjangoGirls Tutorial](https://github.com/DjangoGirls/tutorial), and many other great open source software projects also host their code on GitHub. :)
 
 {% include "/deploy/pythonanywhere.md" %}
 
