@@ -31,58 +31,77 @@ We will make a virtualenv called `myvenv`. The general command will be in the fo
 $ python3 -m venv myvenv
 ```
 
-<!--sec data-title="Virtual environment: Windows" data-id="virtualenv_installation_windows"
-data-collapse=true ces-->
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
+
+{% osContent "Windows" %}
 
 To create a new `virtualenv`, you need to open the command prompt and run `python -m venv myvenv`. It will look like this:
 
-{% filename %}command-line{% endfilename %}
 ```
 C:\Users\Name\djangofest> python -m venv myvenv
 ```
 
 Where `myvenv` is the name of your `virtualenv`. You can use any other name, but stick to lowercase and use no spaces, accents or special characters. It is also a good idea to keep the name short – you'll be referencing it a lot!
 
-<!--endsec-->
+{% endosContent %}
 
-<!--sec data-title="Virtual environment: Linux and OS X" data-id="virtualenv_installation_linuxosx"
-data-collapse=true ces-->
+{% osContent "Mac" %}
 
-We can create a `virtualenv` on both Linux and OS X by running `python3 -m venv myvenv`.
+We can create a `virtualenv` on OS X by running `python3 -m venv myvenv`.
 It will look like this:
 
-{% filename %}command-line{% endfilename %}
 ```
 $ python3 -m venv myvenv
 ```
 
 `myvenv` is the name of your `virtualenv`. You can use any other name, but stick to lowercase and use no spaces. It is also a good idea to keep the name short as you'll be referencing it a lot!
 
-> __NOTE:__ On some versions of Debian/Ubuntu you may receive the following error:
+__NOTE:__ If you get an error like
 
->{% filename %}command-line{% endfilename %}
+>```
+>E: Unable to locate package python3-venv
+>```
+
+then instead run:
+>```
+>sudo apt install python{{ book.py_version }}-venv
+>```
+
+{% endosContent %}
+
+{% osContent "Linux" %}
+
+We can create a `virtualenv` on Linux by running `python3 -m venv myvenv`.
+It will look like this:
+
+```
+$ python3 -m venv myvenv
+```
+
+`myvenv` is the name of your `virtualenv`. You can use any other name, but stick to lowercase and use no spaces. It is also a good idea to keep the name short as you'll be referencing it a lot!
+
+__NOTE:__ On some versions of Debian/Ubuntu you may receive the following error:
+
 >```
 >The virtual environment was not created successfully because ensurepip is not available.  On Debian/Ubuntu systems, you need to install the python3-venv package using the following command.
 >    apt install python3-venv
 >You may need to use sudo with that command.  After installing the python3-venv package, recreate your virtual environment.
 >```
->
-> In this case, follow the instructions above and install the `python3-venv` package:
->{% filename %}command-line{% endfilename %}
+In this case, follow the instructions above and install the `python3-venv` package:
 >```
 >$ sudo apt install python3-venv
 >```
 
-> __NOTE:__ On some versions of Debian/Ubuntu initiating the virtual environment like this currently gives the following error:
+__NOTE:__ On some versions of Debian/Ubuntu initiating the virtual environment like this currently gives the following error:
 
->{% filename %}command-line{% endfilename %}
 >```
 >Error: Command '['/home/eddie/Slask/tmp/venv/bin/python3', '-Im', 'ensurepip', '--upgrade', '--default-pip']' returned non-zero exit status 1
 >```
 
-> To get around this, use the `virtualenv` command instead.
+To get around this, use the `virtualenv` command instead.
 
->{% filename %}command-line{% endfilename %}
 >```
 >$ sudo apt install python-virtualenv
 >$ virtualenv --python=python{{ book.py_version }} myvenv
@@ -90,20 +109,16 @@ $ python3 -m venv myvenv
 
 > __NOTE:__ If you get an error like
 
->{% filename %}command-line{% endfilename %}
 >```
 >E: Unable to locate package python3-venv
 >```
 
-> then instead run:
->
->{% filename %}command-line{% endfilename %}
+then instead run:
 >```
 >sudo apt install python{{ book.py_version }}-venv
 >```
 
-<!--endsec-->
-
+{% endosContent %}
 
 ## Working with virtualenv
 
@@ -144,7 +159,7 @@ $ source myvenv/bin/activate
 
 Remember to replace `myvenv` with your chosen `virtualenv` name!
 
-> __NOTE:__ If the command `source` is not available, try doing this instead:
+__NOTE:__ If the command `source` is not available, try doing this instead:
 >
 >{% filename %}command-line{% endfilename %}
 >```
