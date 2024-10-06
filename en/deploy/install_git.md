@@ -31,7 +31,6 @@ $ sudo apt install git
 ```
 
 #### Installing Git: Fedora
-
 ```bash
 $ sudo dnf install git
 ```

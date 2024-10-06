@@ -24,30 +24,42 @@ To start some experiments we need to open our command-line interface first.
 
 You now should see a white or black window that is waiting for your commands.
 
-<!--sec data-title="Prompt: OS X and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
 
-
-If you're on Mac or Linux, you probably see a `$`, like this:
-
-{% filename %}command-line{% endfilename %}
-```
-$
-```
-<!--endsec-->
-
-<!--sec data-title="Prompt: Windows" data-id="windows_prompt2" data-collapse=true ces-->
-
+{% osContent "Windows" %}
 
 On Windows, you probably see a `>`, like this:
 
-{% filename %}command-line{% endfilename %}
 ```
 >
 ```
 
-Take a look at the Linux section just above now -- you'll see something more like that when you get to PythonAnywhere later in the tutorial.
+Take a look at the Linux section -- you'll see something more like that when you get to PythonAnywhere later in the tutorial.
 
-<!--endsec-->
+{% endosContent %}
+
+{% osContent "Mac" %}
+
+If you're on Mac, you probably see a `$`, like this:
+
+```
+$
+```
+
+{% endosContent %}
+
+{% osContent "Linux" %}
+
+If you're on Linux, you probably see a `$`, like this:
+
+```
+$
+```
+    
+{% endosContent %}
+
 
 Each command will be prepended by a `$` or `>` and one space, but you should not type it. Your computer will do it for you. :)
 
@@ -63,24 +75,33 @@ In the tutorial, when we want you to type in a command, we will include the `$` 
 
 Let's start by typing this command:
 
-<!--sec data-title="Your first command: OS X and Linux" data-id="OSX_Linux_whoami" data-collapse=true ces-->
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
 
-{% filename %}command-line{% endfilename %}
-```
-$ whoami
-```
+{% osContent "Windows" %}
 
-<!--endsec-->
-
-
-<!--sec data-title="Your first command: Windows" data-id="windows_whoami" data-collapse=true ces-->
-
-{% filename %}command-line{% endfilename %}
 ```
 > whoami
 ```
 
-<!--endsec-->
+{% endosContent %}
+
+{% osContent "Mac" %}
+
+```
+$ whoami
+```
+
+{% endosContent %}
+
+{% osContent "Linux" %}
+
+```
+$ whoami
+```
+
+{% endosContent %}
 
 And then hit `enter`. This is our result:
 
@@ -106,10 +127,23 @@ Let's try this, shall we?
 
 It'd be nice to know where are we now, right? Let's see. Type this command and hit `enter`:
 
-<!--sec data-title="Current directory: OS X and Linux" data-id="OSX_Linux_pwd" data-collapse=true ces-->
 
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
 
-{% filename %}command-line{% endfilename %}
+{% osContent "Windows" %}
+
+```
+> cd
+C:\Users\olasitarska
+```
+> Note: 'cd' stands for 'change directory'. With PowerShell you can use pwd just like on Linux or Mac OS X.
+
+{% endosContent %}
+
+{% osContent "Mac" %}
+
 ```
 $ pwd
 /Users/olasitarska
@@ -117,19 +151,18 @@ $ pwd
 
 > Note: 'pwd' stands for 'print working directory'.
 
-<!--endsec-->
+{% endosContent %}
 
+{% osContent "Linux" %}
 
-<!--sec data-title="Current directory: Windows" data-id="windows_cd" data-collapse=true ces-->
-
-{% filename %}command-line{% endfilename %}
 ```
-> cd
-C:\Users\olasitarska
+$ pwd
+/Users/olasitarska
 ```
-> Note: 'cd' stands for 'change directory'. With PowerShell you can use pwd just like on Linux or Mac OS X.
 
-<!--endsec-->
+> Note: 'pwd' stands for 'print working directory'.
+
+{% endosContent %}
 
 You'll probably see something similar on your machine. Once you open the command line you usually start at your user's home directory.
 
@@ -139,18 +172,27 @@ You'll probably see something similar on your machine. Once you open the command
 
 Many commands you can type at the command prompt have built-in help that you can display and read! For example, to learn more about the current directory command:
 
-<!--sec data-title="Command help: OS X and Linux" data-id="OSX_Linux_man" data-collapse=true ces-->
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
 
-OS X and Linux have a `man` command, which gives you help on commands. Try `man pwd` and see what it says, or put `man` before other commands to see their help. The output of `man` is normally paged. Use the space bar to move to the next page, and `q` to quit looking at the help.
-
-<!--endsec-->
-
-
-<!--sec data-title="Command Help: Windows" data-id="windows_help" data-collapse=true ces-->
+{% osContent "Windows" %}
 
 Adding a `/?` suffix to most commands will print the help page. You may need to scroll your command window up to see it all. Try `cd /?`.
 
-<!--endsec-->
+{% endosContent %}
+
+{% osContent "Mac" %}
+
+OS X has a `man` command, which gives you help on commands. Try `man pwd` and see what it says, or put `man` before other commands to see their help. The output of `man` is normally paged. Use the space bar to move to the next page, and `q` to quit looking at the help.
+
+{% endosContent %}
+
+{% osContent "Linux" %}
+
+Linux has a `man` command, which gives you help on commands. Try `man pwd` and see what it says, or put `man` before other commands to see their help. The output of `man` is normally paged. Use the space bar to move to the next page, and `q` to quit looking at the help.
+
+{% endosContent %}
 
 
 ### List files and directories
