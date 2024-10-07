@@ -6,6 +6,10 @@ Django is written in Python. We need Python to do anything in Django. Let's star
 
 Please install normal Python as follows, even when you have Anaconda installed on your computer.
 
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
+
 {% osContent "Windows" %}
 
 You can download Python for Windows from the website https://www.python.org/downloads/windows/. Click on the "Latest Python 3 Release - Python x.x.x" link. Download the **Windows x86-64 executable installer**. After downloading the installer, you should run it (double-click on it) and follow the instructions there.
@@ -21,6 +25,7 @@ Note: If you are using an older version of Windows (7, Vista, or any older versi
 > Django {{ book.django_version }} needs Python {{ book.py_min_version }} or greater, which does not support Windows XP or earlier versions.
 
 {% endosContent %}
+
 {% osContent "Mac" %}
 
 > **Note** Before you install Python on OS X, you should ensure your Mac settings allow installing packages that aren't from the App Store. Go to System Preferences (it's in the Applications folder), click "Security & Privacy," and then the "General" tab. If your "Allow apps downloaded from:" is set to "Mac App Store," change it to "Mac App Store and identified developers."
@@ -31,67 +36,34 @@ You need to go to the website https://www.python.org/downloads/mac-osx/ and down
 * Double click *python-{{ book.py_release }}-macosx10.9.pkg* to run the installer.
 
 {% endosContent %}
+
 {% osContent "Linux" %}
+
 It is very likely that you already have Python installed out of the box. To check if you have it installed (and which version it is), open a console and type the following command:
 
-{% filename %}command-line{% endfilename %}
 ```
 $ python3 --version
 ```
 
-
-{% filename %}What you'll see{% endfilename %}
 ```
 Python {{ book.py_release }}
 ```
 
 If you have a different version of Python installed, at least {{ book.py_min_version }} (e.g. {{ book.py_min_release }}), then you don't have to upgrade. If you don't have Python installed, or if you want a different version, first check what Linux distribution you are using with the following command:
 
-{% filename %}command-line{% endfilename %}
 ```
 $ grep '^NAME=' /etc/os-release
 ```
 
 Afterwards, depending on the result, follow one of the following installation guides below this section.
 
-{% endosContent %}
-
-<!--sec data-title="Install Python: Debian or Ubuntu" data-id="python_debian" data-collapse=true ces-->
-
 Type this command into your console:
 
-{% filename %}command-line{% endfilename %}
 ```
 $ sudo apt install python3
 ```
 
-<!--endsec-->
-
-<!--sec data-title="Install Python: Fedora" data-id="python_fedora"
-data-collapse=true ces-->
-
-Use this command in your console:
-
-{% filename %}command-line{% endfilename %}
-```
-$ sudo dnf install python3
-```
-
-If you're on older Fedora versions you might get an error that the command `dnf` is not found. In that case, you need to use `yum` instead.
-
-<!--endsec-->
-
-<!--sec data-title="Install Python: openSUSE" data-id="python_openSUSE"
-data-collapse=true ces-->
-
-Use this command in your console:
-
-{% filename %}command-line{% endfilename %}
-```
-$ sudo zypper install python3
-```
-
-<!--endsec-->
+{% endosContent %}
 
 Verify the installation was successful by opening a command prompt and running the `python3` command:
 
