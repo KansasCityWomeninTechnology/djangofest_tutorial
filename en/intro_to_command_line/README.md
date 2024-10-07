@@ -199,23 +199,11 @@ Linux has a `man` command, which gives you help on commands. Try `man pwd` and s
 
 So what's in it? It'd be cool to find out. Let's see:
 
-<!--sec data-title="List files and directories: OS X and Linux" data-id="OSX_Linux_ls" data-collapse=true ces-->
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
 
-{% filename %}command-line{% endfilename %}
-```
-$ ls
-Applications
-Desktop
-Downloads
-Music
-...
-```
-<!--endsec-->
-
-<!--sec data-title="List files and directories: Windows" data-id="windows_dir" data-collapse=true ces-->
-
-
-{% filename %}command-line{% endfilename %}
+{% osContent "Windows" %}
 ```
 > dir
  Directory of C:\Users\olasitarska
@@ -226,7 +214,29 @@ Music
 ...
 ```
 > Note: In PowerShell you can also use 'ls' like on Linux and Mac OS X.
-<!--endsec-->
+{% endosContent %}
+
+{% osContent "Mac" %}
+```
+$ ls
+Applications
+Desktop
+Downloads
+Music
+...
+```
+{% endosContent %}
+
+{% osContent "Linux" %}
+```
+$ ls
+Applications
+Desktop
+Downloads
+Music
+...
+```
+{% endosContent %}
 
 ---
 
@@ -234,17 +244,23 @@ Music
 
 Now, let's go to our Desktop directory:
 
-<!--sec data-title="Change current directory: OS X" data-id="OSX_move_to" data-collapse=true ces-->
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
 
-{% filename %}command-line{% endfilename %}
+{% osContent "Windows" %}
+```
+> cd Desktop
+```
+{% endosContent %}
+
+{% osContent "Mac" %}
 ```
 $ cd Desktop
 ```
-<!--endsec-->
+{% endosContent %}
 
-<!--sec data-title="Change current directory: Linux" data-id="Linux_move_to" data-collapse=true ces-->
-
-{% filename %}command-line{% endfilename %}
+{% osContent "Linux" %}
 ```
 $ cd Desktop
 ```
@@ -255,37 +271,34 @@ to the language of your Linux account.
 If that's the case, you'll need to replace `Desktop`
 with the translated name;
 for example, `Schreibtisch` for German.
-
-<!--endsec-->
-
-<!--sec data-title="Change current directory: Windows" data-id="windows_move_to" data-collapse=true ces-->
-
-
-{% filename %}command-line{% endfilename %}
-```
-> cd Desktop
-```
-<!--endsec-->
+{% endosContent %}
 
 Check if it's really changed:
 
-<!--sec data-title="Check if changed: OS X and Linux" data-id="OSX_Linux_pwd2" data-collapse=true ces-->
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
 
-{% filename %}command-line{% endfilename %}
-```
-$ pwd
-/Users/olasitarska/Desktop
-```
-<!--endsec-->
-
-<!--sec data-title="Check if changed: Windows" data-id="windows_cd2" data-collapse=true ces-->
-
-{% filename %}command-line{% endfilename %}
+{% osContent "Windows" %}
 ```
 > cd
 C:\Users\olasitarska\Desktop
 ```
-<!--endsec-->
+{% endosContent %}
+
+{% osContent "Mac" %}
+```
+$ pwd
+/Users/olasitarska/Desktop
+```
+{% endosContent %}
+
+{% osContent "Linux" %}
+```
+$ pwd
+/Users/olasitarska/Desktop
+```
+{% endosContent %}
 
 Here it is!
 
@@ -297,22 +310,27 @@ Here it is!
 
 How about creating a practice directory on your desktop? You can do it this way:
 
-<!--sec data-title="Create directory: OS X and Linux" data-id="OSX_Linux_mkdir" data-collapse=true ces-->
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
 
-{% filename %}command-line{% endfilename %}
-```
-$ mkdir practice
-```
-<!--endsec-->
-
-<!--sec data-title="Create directory: Windows" data-id="windows_mkdir" data-collapse=true ces-->
-
-
-{% filename %}command-line{% endfilename %}
+{% osContent "Windows" %}
 ```
 > mkdir practice
 ```
-<!--endsec-->
+{% endosContent %}
+
+{% osContent "Mac" %}
+```
+$ mkdir practice
+```
+{% endosContent %}
+
+{% osContent "Linux" %}
+```
+$ mkdir practice
+```
+{% endosContent %}
 
 This little command will create a folder with the name `practice` on your desktop. You can check if it's there by looking on your Desktop or by running a `ls` or `dir` command! Try it. :)
 
@@ -326,28 +344,36 @@ A small challenge for you: in your newly created `practice` directory, create a 
 
 #### Solution:
 
-<!--sec data-title="Exercise solution: OS X and Linux" data-id="OSX_Linux_test_dir" data-collapse=true ces-->
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
 
-{% filename %}command-line{% endfilename %}
-```
-$ cd practice
-$ mkdir test
-$ ls
-test
-```
-<!--endsec-->
-
-<!--sec data-title="Exercise solution: Windows" data-id="windows_test_dir" data-collapse=true ces-->
-
-
-{% filename %}command-line{% endfilename %}
+{% osContent "Windows" %}
 ```
 > cd practice
 > mkdir test
 > dir
 05/08/2020 07:28 PM <DIR>      test
 ```
-<!--endsec-->
+{% endosContent %}
+
+{% osContent "Mac" %}
+```
+$ cd practice
+$ mkdir test
+$ ls
+test
+```
+{% endosContent %}
+
+{% osContent "Linux" %}
+```
+$ cd practice
+$ mkdir test
+$ ls
+test
+```
+{% endosContent %}
 
 Congrats! :)
 
@@ -359,107 +385,140 @@ We don't want to leave a mess, so let's remove everything we did until that poin
 
 First, we need to get back to Desktop:
 
-<!--sec data-title="Clean up: OS X and Linux" data-id="OSX_Linux_back" data-collapse=true ces-->
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
 
-{% filename %}command-line{% endfilename %}
-```
-$ cd ..
-```
-<!--endsec-->
-
-<!--sec data-title="Clean up: Windows" data-id="windows_back" data-collapse=true ces-->
-
-
-{% filename %}command-line{% endfilename %}
+{% osContent "Windows" %}
 ```
 > cd ..
 ```
-<!--endsec-->
+{% endosContent %}
+
+{% osContent "Mac" %}
+```
+$ cd ..
+```
+{% endosContent %}
+
+{% osContent "Linux" %}
+```
+$ cd ..
+```
+{% endosContent %}
 
 Using `..` with the `cd` command will change your current directory to the parent directory (that is, the directory that contains your current directory).
 
 Check where you are:
 
-<!--sec data-title="Check location: OS X and Linux" data-id="OSX_Linux_pwd3" data-collapse=true ces-->
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
 
-{% filename %}command-line{% endfilename %}
-```
-$ pwd
-/Users/olasitarska/Desktop
-```
-<!--endsec-->
-
-<!--sec data-title="Check location: Windows" data-id="windows_cd3" data-collapse=true ces-->
-
-
-{% filename %}command-line{% endfilename %}
+{% osContent "Windows" %}
 ```
 > cd
 C:\Users\olasitarska\Desktop
 ```
-<!--endsec-->
+{% endosContent %}
+
+{% osContent "Mac" %}
+```
+$ pwd
+/Users/olasitarska/Desktop
+```
+{% endosContent %}
+
+{% osContent "Linux" %}
+```
+$ pwd
+/Users/olasitarska/Desktop
+```
+{% endosContent %}
 
 Now time to delete the `practice` directory:
 
 > __Attention__: Deleting files using `del`, `rmdir` or `rm` is irrecoverable, meaning _the deleted files will be gone forever_! So be very careful with this command.
 
-<!--sec data-title="Delete directory: Windows Powershell, OS X and Linux" data-id="OSX_Linux_rm" data-collapse=true ces-->
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
 
-{% filename %}command-line{% endfilename %}
+{% osContent "Windows" %}
+! This will delete your directory !
 ```
-$ rm -r practice
+> rm -r practice
 ```
-<!--endsec-->
-
-<!--sec data-title="Delete directory: Windows Command Prompt" data-id="windows_rmdir" data-collapse=true ces-->
-
-
-{% filename %}command-line{% endfilename %}
+Windows Command Prompt:
 ```
 > rmdir /S practice
 practice, Are you sure <Y/N>? Y
 ```
-<!--endsec-->
+{% endosContent %}
+
+{% osContent "Mac" %}
+! This will delete your directory !
+```
+$ rm -r practice
+```
+{% endosContent %}
+
+{% osContent "Linux" %}
+! This will delete your directory !
+```
+$ rm -r practice
+```
+{% endosContent %}
 
 Done! To be sure it's actually deleted, let's check it:
 
-<!--sec data-title="Check deletion: OS X and Linux" data-id="OSX_Linux_ls2" data-collapse=true ces-->
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
 
-{% filename %}command-line{% endfilename %}
-```
-$ ls
-```
-<!--endsec-->
-
-<!--sec data-title="Check deletion: Windows" data-id="windows_dir2" data-collapse=true ces-->
-
-
-{% filename %}command-line{% endfilename %}
+{% osContent "Windows" %}
 ```
 > dir
 ```
-<!--endsec-->
+{% endosContent %}
+
+{% osContent "Mac" %}
+```
+$ ls
+```
+{% endosContent %}
+
+{% osContent "Linux" %}
+```
+$ ls
+```
+{% endosContent %}
 
 ### Exit
 
 That's it for now! You can safely close the command line now. Let's do it the hacker way, alright? :)
 
-<!--sec data-title="Exit: OS X and Linux" data-id="OSX_Linux_exit" data-collapse=true ces-->
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
 
-{% filename %}command-line{% endfilename %}
-```
-$ exit
-```
-<!--endsec-->
-
-<!--sec data-title="Exit: Windows" data-id="windows_exit" data-collapse=true ces-->
-
-
-{% filename %}command-line{% endfilename %}
+{% osContent "Windows" %}
 ```
 > exit
 ```
-<!--endsec-->
+{% endosContent %}
+
+{% osContent "Mac" %}
+```
+$ exit
+```
+{% endosContent %}
+
+{% osContent "Linux" %}
+```
+$ exit
+```
+{% endosContent %}
 
 Cool, huh? :)
 

@@ -22,15 +22,27 @@ To log in, you need to create a *superuser* - a user account that has control ov
 
 > Remember, to write new commands while the web server is running, open a new terminal window and activate your virtualenv. We reviewed how to write new commands in the <b>Your first Django project!</b> chapter, in the <b>Starting the web server</b> section.
 
-{% filename %}Mac OS X or Linux:{% endfilename %}
-```
-(myvenv) ~/djangofest$ python manage.py createsuperuser
-```
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
 
-{% filename %}Windows:{% endfilename %}
+{% osContent "Windows" %}
 ```
 (myvenv) C:\Users\Name\djangofest> python manage.py createsuperuser
 ```
+{% endosContent %}
+
+{% osContent "Mac" %}
+```
+(myvenv) ~/djangofest$ python manage.py createsuperuser
+```
+{% endosContent %}
+
+{% osContent "Linux" %}
+```
+(myvenv) ~/djangofest$ python manage.py createsuperuser
+```
+{% endosContent %}
 
 When prompted, type your username (lowercase, no spaces), email address, and password. **Don't worry that you can't see the password you're typing in – that's how it's supposed to be.** Type it in and press `enter` to continue. The output should look like this (where the username and email should be your own ones):
 

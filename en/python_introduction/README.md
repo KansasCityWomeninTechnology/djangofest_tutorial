@@ -574,52 +574,46 @@ Now we need to save the file and give it a descriptive name. Let's call the file
 
 With the file saved, it's time to run it! Using the skills you've learned in the command line section, use the terminal to **change directories** to the desktop.
 
-<!--sec data-title="Change directory: OS X" data-id="python_OSX"
-data-collapse=true ces-->
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
+
+{% osContent "Windows" %}
+
+On Windows Command Prompt, it will be like this:
+
+```
+> cd %HomePath%\Desktop
+```
+
+And on Windows Powershell, it will be like this:
+
+```
+> cd $Home\Desktop
+```
+
+{% endosContent %}
+
+{% osContent "Mac" %}
 
 On a Mac, the command will look something like this:
 
-{% filename %}command-line{% endfilename %}
 ```
 $ cd ~/Desktop
 ```
-<!--endsec-->
+{% endosContent %}
 
-<!--sec data-title="Change directory: Linux" data-id="python_linux"
-data-collapse=true ces-->
+{% osContent "Linux" %}
 
 On Linux, it will be like this:
 
-{% filename %}command-line{% endfilename %}
 ```
 $ cd ~/Desktop
 ```
 
 (Remember that the word "Desktop" might be translated to your local language.)
 
-<!--endsec-->
-
-<!--sec data-title="Change directory: Windows Command Prompt" data-id="python_windows" data-collapse=true ces-->
-
-On Windows Command Prompt, it will be like this:
-
-{% filename %}command-line{% endfilename %}
-```
-> cd %HomePath%\Desktop
-```
-<!--endsec-->
-
-
-<!--sec data-title="Change directory: Windows Powershell" data-id="python_windowsPSH" data-collapse=true ces-->
-
-And on Windows Powershell, it will be like this:
-
-{% filename %}command-line{% endfilename %}
-```
-> cd $Home\Desktop
-```
-<!--endsec-->
-
+{% endosContent %}
 
 If you get stuck, ask for help. That's exactly what the coaches are here for!
 

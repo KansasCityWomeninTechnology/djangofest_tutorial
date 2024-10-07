@@ -232,30 +232,30 @@ Installing collected packages: Django
 Successfully installed Django-{{ book.django_version }}
 ```
 
-<!--sec data-title="Installing Django: Windows" data-id="django_err_windows"
-data-collapse=true ces-->
+<button class="osToggle" data-os="Windows">Windows</button>
+<button class="osToggle" data-os="Mac">Mac</button>
+<button class="osToggle" data-os="Linux">Linux</button>
 
-> If you get an error when calling pip on Windows, please check if your project pathname contains spaces, accents or special characters (for example, `C:\Users\User Name\djangofest`). If it does, please consider using another place without spaces, accents or special characters (suggestion: `C:\djangofest`). Create a new virtualenv in the new directory, then delete the old one and try the above command again. (Moving the virtualenv directory won't work since virtualenv uses absolute paths.)
+{% osContent "Windows" %}
 
-<!--endsec-->
+If you get an error when calling pip on Windows, please check if your project pathname contains spaces, accents or special characters (for example, `C:\Users\User Name\djangofest`). If it does, please consider using another place without spaces, accents or special characters (suggestion: `C:\djangofest`). Create a new virtualenv in the new directory, then delete the old one and try the above command again. (Moving the virtualenv directory won't work since virtualenv uses absolute paths.)
 
-<!--sec data-title="Installing Django: Windows 8 and Windows 10" data-id="django_err_windows8and10"
-data-collapse=true ces-->
+Your command line might freeze when you try to install Django. If this happens, instead of the above command use:
 
-> Your command line might freeze when you try to install Django. If this happens, instead of the above command use:
->
->{% filename %}command-line{% endfilename %}
->```
->C:\Users\Name\djangofest> python -m pip install -r requirements.txt
->```
+```
+C:\Users\Name\djangofest> python -m pip install -r requirements.txt
+```
 
-<!--endsec-->
+{% endosContent %}
 
-<!--sec data-title="Installing Django: Linux" data-id="django_err_linux"
-data-collapse=true ces-->
+{% osContent "Linux" %}
 
-> If you get an error when calling pip on Ubuntu 12.04 please run `python -m pip install -U --force-reinstall pip` to fix the pip installation in the virtualenv.
+If you get an error when calling pip on Ubuntu 12.04 please run:
+``` 
+`python -m pip install -U --force-reinstall pip` 
+```
+to fix the pip installation in the virtualenv.
 
-<!--endsec-->
+{% endosContent %}
 
 That's it! You're now (finally) ready to create a Django application!
