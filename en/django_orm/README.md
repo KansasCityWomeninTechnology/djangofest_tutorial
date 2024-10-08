@@ -21,7 +21,7 @@ Open up your local console (not on PythonAnywhere) and type this command:
 
 The effect should be like this:
 
-{% filename %}command-line{% endfilename %}
+{% filename %}What you'll see{% endfilename %}
 ```python
 (InteractiveConsole)
 >>>
