@@ -14,7 +14,7 @@
     "gitbook-plugin-sectionx-ex": "*",
     "gitbook-plugin-sidebar-ads": "^1.0.0",
     "honkit": "^3.7.5",
-    "honkit-plugin-browser-detected-tabs": "^0.0.7"
+    "honkit-plugin-browser-detected-tabs": "^0.0.8"
   },
   "scripts": {},
   "keywords": [],
