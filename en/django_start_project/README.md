@@ -195,6 +195,10 @@ To create a database for our blog, let's run the following in the console: `pyth
 {% filename %}command-line{% endfilename %}
 ```
 (myvenv) ~/djangofest$ python manage.py migrate
+```
+
+{% filename %}What you'll see{% endfilename %}
+```
 Operations to perform:
   Apply all migrations: admin, auth, contenttypes, sessions
 Running migrations:

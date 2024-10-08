@@ -85,6 +85,10 @@ It's a good idea to use a `git status` command before `git add` or whenever you 
 {% filename %}command-line{% endfilename %}
 ```
 $ git status
+```
+{% filename %}What you'll see{% endfilename %}
+```
+
 On branch main
 
 No commits yet
@@ -107,6 +111,9 @@ And finally we save our changes. Go to your console and run these commands:
 ```
 $ git add .
 $ git commit -m "My DjangoFest app, first commit"
+```
+{% filename %}What you'll see{% endfilename %}
+```
  [...]
  13 files changed, 200 insertions(+)
  create mode 100644 .gitignore
@@ -141,7 +148,7 @@ $ git push -u origin HEAD
 
 When you push to GitHub, you'll be asked for your GitHub username and password (either right there in the command-line window or in a pop-up window), and after entering credentials you should see something like this:
 
-{% filename %}command-line{% endfilename %}
+{% filename %}What you'll see{% endfilename %}
 ```
 Counting objects: 6, done.
 Writing objects: 100% (6/6), 200 bytes | 0 bytes/s, done.

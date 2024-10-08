@@ -193,6 +193,9 @@ The last step here is to add our new model to our database. First we have to mak
 {% filename %}command-line{% endfilename %}
 ```
 (myvenv) ~/djangofest$ python manage.py makemigrations blog
+```
+{% filename %}What you'll see {% endfilename %}
+```
 Migrations for 'blog':
   blog/migrations/0001_initial.py
     - Create model Post
@@ -205,6 +208,9 @@ Django prepared a migration file for us that we now have to apply to our databas
 {% filename %}command-line{% endfilename %}
 ```
 (myvenv) ~/djangofest$ python manage.py migrate blog
+```
+{% filename %}What you'll see {% endfilename %}
+```
 Operations to perform:
   Apply all migrations: blog
 Running migrations:
