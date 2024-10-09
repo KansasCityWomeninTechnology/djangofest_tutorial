@@ -9,6 +9,8 @@ Welcome to the DjangoFest Tutorial! We are happy to see you here. :) In this tut
 
 As with all unknown things, this is going to be an adventure - but no worries, since you already worked up the courage to be here, you'll be just fine. :)
 
+At [Kansas City Women in Technology](https://kcwomenintech.org/), we're thrilled to host our [DjangoFestKC](https://kansascitywomenintechnology.github.io/django-fest-official/) workshop, where we aim to empower learners of all genders and backgrounds to dive into the world of software development through hands-on, experiential learning. Inspired by the fantastic [DjangoGirls](https://djangogirls.org/en/) tutorial, we've thoughtfully adapted their approach, incorporating a few tweaks to better suit our community's needs. We’re excited to carry forward DjangoGirls' mission of inclusivity and support while creating a unique and engaging environment for our participants. Join us as we embark on this coding journey together and celebrate the power of technology!
+
 ## Introduction
 
 Have you ever felt that the world is more and more about technology to which you cannot (yet) relate? Have you ever wondered how to create a website but have never had enough motivation to start? Have you ever thought that the software world is too complicated for you to even try doing something on your own?
@@ -33,19 +35,6 @@ OK, [let's start at the beginning…](./how_the_internet_works/README.md)
 
 ## Following the tutorial at home
 
-It is amazing to take part in a DjangoFest workshop, but we are aware that it is not always possible to attend one. This is why we encourage you to try following this tutorial at home. For readers at home, we are currently preparing videos that will make it easier to follow the tutorial on your own. It is still a work in progress, but more and more things will be covered soon at the [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A/feed) YouTube channel.
+It is amazing to take part in a DjangoFest workshop, but we are aware that it is not always possible to attend one. This is why we encourage you to try following this tutorial at home. 
 
-In every chapter already covered, there is a link that points to the correct video.
-
-
-## About and contributing
-
-This tutorial is maintained by [DjangoGirls](https://djangogirls.org/). If you find any mistakes or want to update the tutorial please [follow the contributing guidelines](https://github.com/DjangoGirls/tutorial/blob/master/README.md).
-
-## Would you like to help us translate the tutorial into other languages?
-
-Currently, translations are being kept on crowdin.com platform at:
-
-https://crowdin.com/project/django-girls-tutorial
-
-If your language is not listed on [crowdin](https://crowdin.com/), please [open a new issue](https://github.com/DjangoGirls/tutorial/issues/new) informing us of the language so we can add it.
+In every chapter already covered, there is a link that points to the correct video. These videos have been created by the amazing organization [DjangoGirls](https://djangogirls.org/en/). 
