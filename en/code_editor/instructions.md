@@ -60,9 +60,9 @@ Visual Studio Code is a source code editor developed by Microsoft for Windows, L
 
 # Setting Up Visual Studio Code
 
-## Customize Your Setup
+## Customize Your Setup (optional)
 **Configure Settings:**
-    - Go to `File > Preferences > Settings` to customize your editor settings, such as font size, tab size, and more.
+Head to `File > Preferences > Settings` to customize your editor settings, such as font size, tab size, and more.
 
 ## Enable Autosave
 1. **Open Settings:**
